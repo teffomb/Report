@@ -25,8 +25,56 @@ Ser la plataforma referente en eficiencia hídrica residencial en Latinoamérica
 ### 1.1.2. Perfiles de integrantes del equipo
 |    Integrante   | Descripcion de Carrera | Conocimientos y Habilidades a apuntar|
 | --------------------------------| ----------------------| ------------------------------------ |
-|![Yazid Said](./imagenes/foto%20yazid.jpg) <br> Angelo Stephano Moscoso Bejar   |  |  |
-|![Angelo Stephano](./imagenes/foto%20angelo.jpg) <br> Keyner Ivan Hancco Poma   |  |  |
-|![Gonzalo Alonso](./imagenes/foto%20Gonzalo.jpg) <br> Gabriela Luciana Tirado Carrera               |  |  |
-|![Joan Fernando](./imagenes/foto%20joan.jpg) <br> Yeira Shari Huaman Olivos |  |  |
-|![Antonio Rodrigo](./imagenes/foto%20Antonio.jpg) <br> Diego Ismael Guevara Serrano      |  |  |
+|![Angelo Stephano Moscoso Bejar](./imagenes/foto%20yazid.jpg) <br> Angelo Stephano Moscoso Bejar   |  |  |
+|![Keyner Ivan Hancco Poma](./imagenes/foto%20angelo.jpg) <br> Keyner Ivan Hancco Poma   |  |  |
+|![Gabriela Luciana Tirado Carrera](./imagenes/foto%20Gonzalo.jpg) <br> Gabriela Luciana Tirado Carrera               |  |  |
+|![Yeira Shari Huaman Olivos](./imagenes/foto%20joan.jpg) <br> Yeira Shari Huaman Olivos |  |  |
+|![Diego Ismael Guevara Serrano](./imagenes/foto%20Antonio.jpg) <br> Diego Ismael Guevara Serrano      |  |  |
+
+
+## 1.2. Solution Profile
+
+### 1.2.1. Antecedentes y problemática
+### Antecedentes
+<div style="text-align: justify">
+
+En el ámbito residencial y de gestión inmobiliaria, la falta de control sobre el consumo de agua representa un desafío económico y ambiental crítico. El desconocimiento de los patrones de consumo y la detección tardía de fugas invisibles generan un desperdicio masivo del recurso y un incremento injustificado en las facturas mensuales. Según el Banco Mundial (2023), el agua no contabilizada en redes urbanas y domésticas puede alcanzar hasta el 40% debido a fugas no detectadas y falta de monitoreo, lo que impacta directamente en la economía de los hogares, especialmente en regiones con estrés hídrico como Latinoamérica.
+
+Un caso crítico ocurre en las viviendas con áreas verdes y en edificios de departamentos donde el costo del agua está incluido en el alquiler. En el primer caso, el riego ineficiente sin considerar la humedad real del suelo provoca un gasto excesivo de hasta un 50% más de lo necesario para el mantenimiento del jardín. En el segundo caso, los arrendadores enfrentan el riesgo de inquilinos que, al no pagar directamente el servicio, no tienen incentivos para el ahorro, lo que deriva en márgenes de ganancia reducidos para el propietario. Según la SUNASS (2022), un inodoro malogrado o una fuga interna puede desperdiciar hasta 150,000 litros de agua al mes, un costo que la mayoría de usuarios solo nota cuando llega el recibo físico semanas después.
+
+Actualmente, la gestión del agua en el hogar es mayormente reactiva y manual. Los usuarios dependen de medidores analógicos de difícil acceso y de una facturación mensual que no ofrece detalles sobre dónde o cuándo se produjo el consumo. La falta de herramientas digitales accesibles que integren alertas en tiempo real y análisis de datos impide que estudiantes con bajo presupuesto o propietarios optimicen su gasto, dejando un vacío tecnológico que herramientas como HydroSmart buscan llenar para transformar el consumo pasivo en una gestión inteligente y sostenible.
+
+</div>
+
+### Problemática
+
+<div align="justify">
+Para entender la necesidad del proyecto, se aplicó la técnica de las 5W's + 2H's:
+
+### 5W's
+### What (¿Cuál es el problema?):
+Los usuarios residenciales carecen de visibilidad y control sobre su consumo de agua en tiempo real, lo que deriva en facturas elevadas por fugas no detectadas, riego ineficiente en áreas verdes y falta de conciencia sobre el gasto diario. Los propietarios que alquilan con servicios incluidos pierden rentabilidad al no poder monitorear el uso desmedido de sus inquilinos.
+
+### When (¿Cuándo ocurre el problema?):
+El problema es persistente pero se agrava cuando existen fugas internas imperceptibles o durante las temporadas de riego intensivo. El usuario suele identificar la falla semanas después, al recibir el recibo de pago, cuando el impacto económico y el desperdicio del recurso ya son irreversibles.
+
+### Where (¿Dónde ocurre el problema?):
+En viviendas particulares con jardines, edificios de departamentos en alquiler y residencias estudiantiles donde el control del agua es inexistente o se limita a un medidor general de la empresa prestadora de servicios.
+
+### Who (¿A quién o quiénes afecta el problema?):
+- **Propietarios de viviendas:** Que enfrentan altos costos de mantenimiento por riego ineficiente.
+- **Arrendadores:** Que ven reducida su utilidad por el consumo descontrolado en unidades con servicios incluidos.
+- **Estudiantes e inquilinos:** Que poseen presupuestos limitados y necesitan minimizar gastos fijos.
+- **El Medio Ambiente:** Debido al agotamiento innecesario de fuentes de agua dulce.
+
+### Why (¿Por qué sucede el problema?):
+Porque la infraestructura actual de medición es analógica y no proporciona retroalimentación inmediata al usuario. No existe una cultura de monitoreo preventivo debido a la falta de plataformas digitales que traduzcan el flujo de agua en datos de costo y ahorro fáciles de entender.
+
+### 2H's
+### How (¿Cómo aparece el problema?):
+El problema se manifiesta mediante el incremento gradual o súbito de los recibos de agua. Sin alertas inteligentes, un grifo goteando o una tubería interna dañada pueden pasar desapercibidos durante meses. Además, la falta de metas de ahorro personalizadas hace que los usuarios con bajo presupuesto no sepan qué hábitos modificar para reducir su gasto de forma efectiva.
+
+### How Much (¿Cuánto afecta el problema?):
+El impacto económico es directo: una sola fuga no detectada puede duplicar o triplicar el costo de la factura mensual. Operativamente, para un dueño de departamentos, el consumo ineficiente de múltiples inquilinos puede representar pérdidas de cientos de dólares anuales, mientras que a nivel ecológico se desperdician miles de litros que agravan la crisis hídrica local.
+
+</div>
