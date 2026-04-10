@@ -78,3 +78,52 @@ El problema se manifiesta mediante el incremento gradual o súbito de los recibo
 El impacto económico es directo: una sola fuga no detectada puede duplicar o triplicar el costo de la factura mensual. Operativamente, para un dueño de departamentos, el consumo ineficiente de múltiples inquilinos puede representar pérdidas de cientos de dólares anuales, mientras que a nivel ecológico se desperdician miles de litros que agravan la crisis hídrica local.
 
 </div>
+
+
+### 1.2.2. Lean UX Process
+#### 1.2.2.1. Lean UX Problem Statements
+
+El estado actual del monitoreo del consumo de agua en viviendas con jardines depende de medidores analógicos y facturas mensuales que no ofrecen detalle sobre cuándo ni dónde se produce el gasto. Lo que los propietarios necesitan es una forma de visualizar en tiempo real su consumo y recibir alertas ante anomalías. Hemos observado que esto genera un riego ineficiente que puede desperdiciar hasta un 50% más del agua necesaria.
+
+¿Cómo podríamos diseñar una solución que permita a los propietarios gestionar su consumo de forma preventiva y reducir sus costos mensuales?
+
+El estado actual de la gestión del agua en edificios de departamentos con servicios incluidos no permite al arrendador supervisar el consumo individual de sus inquilinos. Lo que los arrendadores necesitan es visibilidad sobre el uso del agua por unidad para proteger su rentabilidad. Hemos observado que la falta de control deriva en pérdidas económicas significativas para el propietario.
+
+¿Cómo podríamos ofrecer a los arrendadores herramientas de monitoreo por unidad que les permitan identificar consumos excesivos a tiempo?
+
+El estado actual del acceso a información sobre consumo de agua no brinda a los jóvenes arrendatarios datos accionables para ajustar sus hábitos. Lo que los estudiantes necesitan es una herramienta accesible que les muestre su gasto en tiempo real y les proponga metas de ahorro adaptadas a su presupuesto. Hemos observado que sin esta información los recibos elevados los toman por sorpresa afectando su economía mensual.
+
+¿Cómo podríamos diseñar una experiencia que motive a los jóvenes a adoptar hábitos de consumo responsable desde su celular?
+
+#### 1.2.2.2. Lean UX Assumptions
+Assumptions Worksheet
+
+- ¿Quién es el usuario?
+  Tenemos dos tipos de usuario: los propietarios (dueños de viviendas con áreas verdes y arrendadores con departamentos de servicios incluidos) y los inquilinos (estudiantes y jóvenes arrendatarios con presupuesto limitado).
+
+- ¿Dónde encaja nuestro producto en su trabajo o vida?
+  Nuestro producto servirá para monitorear y gestionar el consumo de agua del hogar de manera sencilla, integrándose en la rutina diaria del usuario como una herramienta de control financiero y ambiental desde su smartphone.
+
+- ¿Qué problemas resuelve nuestro producto?
+  El producto resuelve la falta de visibilidad en tiempo real sobre el consumo de agua, la detección tardía de fugas y el descontrol del gasto hídrico que impacta directamente en la economía del hogar.
+
+- ¿Cuándo y cómo es usado nuestro producto?
+  Cuando el usuario desee revisar su consumo diario, recibir alertas de fugas o anomalías, o establecer metas de ahorro personalizadas desde su celular.
+- ¿Qué características son importantes? Para el segmento propietarios: monitoreo por unidad, alertas de consumo excesivo y reportes históricos. Para el segmento inquilinos: metas de ahorro adaptadas a su presupuesto y notificaciones en tiempo real.
+-  ¿Cómo debe verse nuestro producto y cómo comportarse? Nuestro producto deberá transmitir confianza y claridad, presentando datos complejos de consumo de forma visual y simple. Debe verse moderno, minimalista y fácil de usar para cualquier perfil de usuario.
+
+Business Assumptions:
+- Creemos que los usuarios están dispuestos a pagar por una solución digital que les ayude a reducir su factura de agua mensual.
+-  Creemos que el mercado peruano tiene suficiente penetración de smartphones para adoptar una app de monitoreo hídrico.
+
+- Creemos que HydroSmart puede generar ingresos a través de suscripciones mensuales o anuales.
+
+- Creemos que alianzas con empresas de servicios de agua como SEDAPAL pueden acelerar la adopción de la plataforma.
+
+#### 1.2.2.3. Lean UX Hypothesis Statements
+
+- Creemos que si ofrecemos a los propietarios de viviendas con áreas verdes un sistema de monitoreo en tiempo real con alertas de consumo excesivo, entonces podrán reducir su gasto hídrico mensual. Sabremos que estamos en lo correcto cuando los usuarios reporten una reducción de al menos 20% en su factura de agua durante los primeros tres meses de uso.
+
+- Creemos que si brindamos a los arrendadores una herramienta de monitoreo por unidad que les permita identificar consumos desmedidos de sus inquilinos, entonces podrán proteger su rentabilidad y reducir pérdidas económicas. Sabremos que estamos en lo correcto cuando los arrendadores reporten una mejora en el control de sus gastos de agua y una reducción de conflictos con inquilinos por consumo excesivo.
+
+- Creemos que si proporcionamos a los jóvenes arrendatarios metas de ahorro personalizadas y alertas de consumo adaptadas a su presupuesto, entonces adoptarán hábitos de consumo más responsables. Sabremos que estamos en lo correcto cuando los usuarios del segmento inquilinos logren mantenerse dentro de su meta de consumo mensual durante al menos dos meses consecutivos.
