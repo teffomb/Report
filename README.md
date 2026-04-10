@@ -131,4 +131,4 @@ Business Assumptions:
 
 #### 1.2.2.4. Lean UX Canvas.
 ![LeanUxCanvas](https://i.postimg.cc/wvd5XB8q/leanuxcanvas.png)
-
+https://drive.google.com/file/d/1wwpBe4NPq4E3-tbdaST1Rjr0F1oCtPOZ/view?usp=sharing
