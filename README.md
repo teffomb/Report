@@ -81,7 +81,7 @@ El impacto económico es directo: una sola fuga no detectada puede duplicar o tr
 
 
 ### 1.2.2. Lean UX Process
-#### 1.2.2.1. Lean UX Problem Statements
+#### 1.2.2.1. Lean UX Problem Statements.
 
 El estado actual del monitoreo del consumo de agua en viviendas con jardines depende de medidores analógicos y facturas mensuales que no ofrecen detalle sobre cuándo ni dónde se produce el gasto. Lo que los propietarios necesitan es una forma de visualizar en tiempo real su consumo y recibir alertas ante anomalías. Hemos observado que esto genera un riego ineficiente que puede desperdiciar hasta un 50% más del agua necesaria.
 
@@ -95,7 +95,7 @@ El estado actual del acceso a información sobre consumo de agua no brinda a los
 
 ¿Cómo podríamos diseñar una experiencia que motive a los jóvenes a adoptar hábitos de consumo responsable desde su celular?
 
-#### 1.2.2.2. Lean UX Assumptions
+#### 1.2.2.2. Lean UX Assumptions.
 Assumptions Worksheet
 
 - ¿Quién es el usuario?
@@ -127,3 +127,8 @@ Business Assumptions:
 - Creemos que si brindamos a los arrendadores una herramienta de monitoreo por unidad que les permita identificar consumos desmedidos de sus inquilinos, entonces podrán proteger su rentabilidad y reducir pérdidas económicas. Sabremos que estamos en lo correcto cuando los arrendadores reporten una mejora en el control de sus gastos de agua y una reducción de conflictos con inquilinos por consumo excesivo.
 
 - Creemos que si proporcionamos a los jóvenes arrendatarios metas de ahorro personalizadas y alertas de consumo adaptadas a su presupuesto, entonces adoptarán hábitos de consumo más responsables. Sabremos que estamos en lo correcto cuando los usuarios del segmento inquilinos logren mantenerse dentro de su meta de consumo mensual durante al menos dos meses consecutivos.
+
+
+#### 1.2.2.4. Lean UX Canvas.
+![LeanUxCanvas](https://i.postimg.cc/wvd5XB8q/leanuxcanvas.png)
+
