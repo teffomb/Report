@@ -120,7 +120,7 @@ Business Assumptions:
 
 - Creemos que alianzas con empresas de servicios de agua como SEDAPAL pueden acelerar la adopción de la plataforma.
 
-#### 1.2.2.3. Lean UX Hypothesis Statements
+#### 1.2.2.3. Lean UX Hypothesis Statements.
 
 - Creemos que si ofrecemos a los propietarios de viviendas con áreas verdes un sistema de monitoreo en tiempo real con alertas de consumo excesivo, entonces podrán reducir su gasto hídrico mensual. Sabremos que estamos en lo correcto cuando los usuarios reporten una reducción de al menos 20% en su factura de agua durante los primeros tres meses de uso.
 
