@@ -21,7 +21,7 @@ Yakumetro es una iniciativa peruana hecha por Sunass. Esta es una plataforma web
 
 Al ser una iniciativa de un organismo público, es totalmente gratuita.
 
-## 2.1.1. Análisis Competitivo
+### 2.1.1. Análisis Competitivo
 
 <table>
   <tr>
@@ -153,3 +153,39 @@ Con el objetivo de conocer cómo los usuarios gestionan actualmente su consumo d
 La información recopilada fue revisada y organizada para identificar comportamientos recurrentes, problemas comunes y necesidades no cubiertas. Este análisis permitió obtener una visión más clara sobre cómo los usuarios toman decisiones respecto al consumo de agua y qué factores influyen en su disposición a adoptar nuevas herramientas.
 
 A partir de estos hallazgos, se pudieron establecer criterios clave para el desarrollo de AquaPulse, asegurando que la solución responda a situaciones reales, facilite el control del consumo y aporte valor tanto en el ahorro económico como en la gestión eficiente del recurso hídrico.
+
+### 2.2.1. Diseño de entrevistas 
+En esta sección se define la información a recolectar de los segmentos objetivo. Los datos básicos de los entrevistados serán registrados mediante un formulario, el cual estará disponible a través del siguiente enlace: https://docs.google.com/forms/d/e/1FAIpQLSeASAP7gDjpULkffOBbjQFhAo4xq-rRJhzjmd_Y2vJmM5wfVQ/viewform
+
+
+**Entrevistas Segmento 1: Propietarios de viviendas con áreas verdes**
+1. ¿Podría contarnos un poco sobre su ocupación y su tipo de vivienda actual?
+2. ¿Cuenta con jardín o áreas verdes en su hogar? ¿Cómo gestiona actualmente el riego?
+3. ¿Qué tan importante es para usted el control del consumo de agua en su hogar?
+4. ¿Con qué frecuencia revisa su recibo de agua y qué decisiones toma a partir de él?
+5. ¿Ha tenido problemas con fugas o consumos elevados de agua? ¿Cómo los detectó?
+6. ¿Cuáles son las mayores frustraciones que tiene respecto al consumo de agua en su vivienda?
+7. ¿Ha utilizado alguna herramienta o tecnología para monitorear su consumo de agua?
+8. ¿Qué aspectos considera más importantes para optimizar el uso del agua en su hogar?
+9. Si existiera una aplicación que le permita ver su consumo en tiempo real, ¿cómo cree que la usaría?
+10. ¿Le resultaría útil recibir alertas cuando su consumo de agua sea inusualmente alto?
+11. ¿Qué tipo de información le gustaría ver en una aplicación de este tipo?
+12. ¿Qué lo motivaría a usar una herramienta para controlar su consumo de agua de manera constante?
+13. ¿Qué preocupaciones tendría al usar una solución tecnológica para gestionar el agua en su hogar?
+14. ¿Estaría dispuesto a pagar por una solución que le ayude a reducir su consumo de agua? ¿Por qué?
+
+**Entrevistas Segmento 2: Estudiantes que alquilan**
+1. ¿Podría compartirnos su edad, a qué se dedica y su situación actual de vivienda?
+2. ¿Cómo maneja su presupuesto mensual, especialmente en servicios como agua?
+3. ¿Qué tan consciente es de su consumo de agua en el día a día?
+4. ¿Ha tenido alguna sorpresa con el recibo de agua? ¿Cómo reaccionó?
+5. ¿Cuáles son sus principales frustraciones respecto al gasto de agua?
+6. ¿Qué tan seguido piensa en ahorrar agua o reducir su consumo?
+7. ¿Ha intentado cambiar sus hábitos para gastar menos agua? ¿Cómo?
+8. Si pudiera ver su consumo de agua en tiempo real desde su celular, ¿cree que cambiaría algo en su rutina?
+9. ¿Le ayudaría recibir alertas cuando esté gastando más agua de lo normal?
+10. ¿Qué tipo de información le gustaría ver en una app de consumo de agua?
+11. ¿Cómo debería ser una aplicación para que realmente la uses (simple, rápida, etc.)?
+12. ¿Qué cosas te harían dejar de usar una app de este tipo?
+13. ¿Qué tan dispuesto estarías a cambiar tus hábitos para ahorrar dinero en agua?
+14. ¿Estarías dispuesto a pagar por una app que te ayude a controlar tu consumo y ahorrar dinero? ¿Por qué?
