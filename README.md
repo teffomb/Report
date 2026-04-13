@@ -145,3 +145,11 @@ Frente a Dropcountr, la táctica debe ser anticiparse: desarrollar alianzas temp
 Respecto a Yakumetro, que es gratuita y tiene respaldo institucional, la estrategia no es competir directamente sino diferenciarse en profundidad: Yakumetro es un simulador estático, mientras que HydroSmart ofrece gestión activa, alertas en tiempo real y metas personalizadas. La táctica es comunicar claramente esa diferencia y posicionarse como el siguiente paso natural para un usuario que ya conoce Yakumetro pero quiere algo más completo.
 
 La táctica central de HydroSmart debe ser crecer mediante comunidad y contenido educativo, convirtiendo a los usuarios satisfechos en embajadores de la app, mientras construye las alianzas institucionales que le den acceso a datos reales de consumo y le otorguen credibilidad frente a un mercado que aún no conoce este tipo de soluciones.
+
+## 2.2. Entrevistas
+
+Con el objetivo de conocer cómo los usuarios gestionan actualmente su consumo de agua y qué dificultades enfrentan, se llevaron a cabo entrevistas dirigidas a dos grupos principales: propietarios de viviendas con áreas verdes y estudiantes que alquilan. Para cada segmento se diseñaron preguntas abiertas que permitieran entender sus hábitos, nivel de control sobre el gasto y su interés en utilizar soluciones tecnológicas para optimizar el uso del agua.
+
+La información recopilada fue revisada y organizada para identificar comportamientos recurrentes, problemas comunes y necesidades no cubiertas. Este análisis permitió obtener una visión más clara sobre cómo los usuarios toman decisiones respecto al consumo de agua y qué factores influyen en su disposición a adoptar nuevas herramientas.
+
+A partir de estos hallazgos, se pudieron establecer criterios clave para el desarrollo de AquaPulse, asegurando que la solución responda a situaciones reales, facilite el control del consumo y aporte valor tanto en el ahorro económico como en la gestión eficiente del recurso hídrico.
