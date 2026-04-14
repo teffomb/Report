@@ -201,6 +201,7 @@ En esta sección se define la información a recolectar de los segmentos objetiv
 - Ubicación: Miraflores, Lima
 
 ![Segmento-1-Entrevista-1-(Diego-Paredes)](https://i.postimg.cc/yNR5XVfH/Diegue-Entrevista.png)
+
 Duración: 4 minutos y 42 segundos
 
 **Resumen de Entrevista:**
