@@ -192,6 +192,25 @@ En esta sección se define la información a recolectar de los segmentos objetiv
 
 ### 2.2.2. Registro de entrevistas
 
+**Entrevistas Segmento 1: Propietarios de viviendas con áreas verdes**
+
+**Entrevista 1:**
+
+- Nombres y Apellidos: Diego Andrey Paredes Rey de Castro
+- Edad: 32 años
+- Ubicación: Miraflores, Lima
+
+![Segmento-1-Entrevista-1-(Diego-Paredes)](https://i.postimg.cc/yNR5XVfH/Diegue-Entrevista.png)
+Duración: 4 minutos y 42 segundos
+
+**Resumen de Entrevista:**
+
+El entrevistado, Diego, de 32 años, es propietario de una vivienda con áreas verdes, las cuales riega de manera interdiaria. Actualmente, no presenta mayores molestias en cuanto al consumo de agua ni a los costos del servicio, por lo que se siente conforme con su situación. Sin embargo, le gustaría tener un mejor control sobre el uso del agua en su hogar; por ejemplo, contar con notificaciones en tiempo real que le avisen si ocurre una fuga o si el consumo se eleva más de lo normal. 
+
+También muestra interés en una aplicación que le permita ver cómo se está usando el agua en elementos específicos, como las llaves, para detectar posibles desperdicios. Además, le gustaría saber cuánto consume su regadora inteligente y poder monitorear su uso durante el riego, especialmente para identificar posibles excesos o desperdicios. 
+
+En general, aunque no tiene una necesidad urgente, sí está abierto a soluciones tecnológicas que le ayuden a monitorear y optimizar su consumo de agua de forma preventiva.
+
 **Entrevistas Segmento 2: Estudiantes que alquilan**
 
 **Entrevista 1:**
@@ -202,13 +221,13 @@ En esta sección se define la información a recolectar de los segmentos objetiv
 
 
   [![Segmento-2-Entrevista-1-(Camila-Diaz-Diaz)-img.png](https://i.postimg.cc/vZDXHgGN/Segmento-2-Entrevista-1-(Camila-Diaz-Diaz)-img.png)](https://postimg.cc/VJQXKNrq)
--
+
 
 - Enlace: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202419592_upc_edu_pe/IQAZ2IPFjbWTTZ_xOW2i5HlNATj8WG2OuwSfyRpPb83ftjE
 - Tiempo: 0:00 - 7:43
 
 
-**Resumen de Entrevista**
+**Resumen de Entrevista:**
 
 En esta entrevista, Camila nos comenta cómo se maneja el consumo de agua en su vivienda actual. Destaca que, aunque ella no es quien paga los recibos, sus hábitos y los de sus hermanas, con quienes vive, terminan afectando la economía familiar. Señala que, si bien en ocasiones piensa en el consumo de agua, no es algo recurrente; sin embargo, ha habido momentos en los que sus padres han llamado la atención sobre un consumo excesivo en actividades cotidianas.
 
