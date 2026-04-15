@@ -212,6 +212,22 @@ También muestra interés en una aplicación que le permita ver cómo se está u
 
 En general, aunque no tiene una necesidad urgente, sí está abierto a soluciones tecnológicas que le ayuden a monitorear y optimizar su consumo de agua de forma preventiva.
 
+**Entrevista 2:**
+
+- Nombres y Apellidos: Yusnury Vivar 
+- Edad: 30 años
+- Ubicación: San Miguel, Lima
+
+![Segmento-1-Entrevista-2-(Yusnury Vivar)](https://i.postimg.cc/Fs9dQbc5/Yus-Entrevista.png)
+
+Duración: 4 minutos y 29 segundos
+
+**Resumen de Entrevista:**
+
+En esta entrevista, Yusnury nos comenta que sí ha enfrentado inconvenientes relacionados con el consumo de agua en su hogar, especialmente por fugas que no detectó a tiempo y que recién identificó al recibir un recibo mensual con un monto considerablemente mayor al habitual. En su vivienda cuenta con áreas verdes que riega todos los días, lo que también influye en su consumo general.
+
+Si bien tiene conocimiento de prácticas básicas para ahorrar agua, como cerrar correctamente las llaves y caños, siente que esto no es suficiente para tener un control real sobre su consumo. Por ello, le gustaría contar con una forma más precisa de monitorear el uso del agua y evitar desperdicios innecesarios. En este sentido, se muestra bastante interesada y abierta a adoptar una solución tecnológica que le permita gestionar mejor su consumo, prevenir fugas y reducir gastos de manera más eficiente
+
 **Entrevistas Segmento 2: Estudiantes que alquilan**
 
 **Entrevista 1:**
