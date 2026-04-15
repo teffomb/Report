@@ -225,7 +225,7 @@ En general, aunque no tiene una necesidad urgente, sí está abierto a solucione
 
 
 - Enlace: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202419592_upc_edu_pe/IQAZ2IPFjbWTTZ_xOW2i5HlNATj8WG2OuwSfyRpPb83ftjE
-- Tiempo: 0:00 - 7:43
+- Duración: 7 minutos y 43 segundos
 
 
 **Resumen de Entrevista:**
