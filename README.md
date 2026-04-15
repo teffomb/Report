@@ -218,7 +218,7 @@ En general, aunque no tiene una necesidad urgente, sí está abierto a solucione
 - Edad: 30 años
 - Ubicación: San Miguel, Lima
 
-![Segmento-1-Entrevista-2-(Yusnury Vivar)](https://i.postimg.cc/Fs9dQbc5/Yus-Entrevista.png)
+![Segmento-1-Entrevista-2-(Yusnury-Vivar)](https://i.postimg.cc/Fs9dQbc5/Yus-Entrevista.png)
 
 Duración: 4 minutos y 29 segundos
 
