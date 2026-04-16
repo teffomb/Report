@@ -256,7 +256,7 @@ Duración: 8 minutos y 43 segundos
 
 **Resumen de Entrevista:**
 
-El entrevistado Paul, de 46 años, se dedica al rubro textil y reside en una vivienda de 120 m² con un pequeño jardín frontal. Actualmente, realiza el riego de sus áreas verdes de forma tradicional mediante una manguera durante las noches. Aunque considera que su consumo actual es normal para las cuatro personas que habitan el hogar, ha tenido experiencias negativas en el pasado con fugas difíciles de detectar en inodoros y problemas con medidores defectuosos, lo que le generó gastos innecesarios durante meses.
+El entrevistado Paul de 46 años, se dedica al rubro textil y reside en una vivienda de 120 m² con un pequeño jardín frontal. Actualmente, realiza el riego de sus áreas verdes de forma tradicional mediante una manguera durante las noches. Aunque considera que su consumo actual es normal para las cuatro personas que habitan el hogar, ha tenido experiencias negativas en el pasado con fugas difíciles de detectar en inodoros y problemas con medidores defectuosos, lo que le generó gastos innecesarios durante meses.
 
 Muestra un gran interés en una solución tecnológica que le brinde transparencia sobre su consumo en tiempo real. Específicamente, le gustaría que una aplicación le permitiera comparar el gasto diario con el recibo mensual y que incluya alertas inmediatas ante consumos inusualmente altos para prevenir fugas.
 
