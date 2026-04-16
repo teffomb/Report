@@ -218,7 +218,7 @@ En general, aunque no tiene una necesidad urgente, sí está abierto a solucione
 - Edad: 30 años
 - Ubicación: San Miguel, Lima
 
-![Segmento-1-Entrevista-2-(Yus-Vivar)](https://i.postimg.cc/Fs9dQbc5/Yus-Entrevista.png)
+![Yus-Vivar](https://www.image2url.com/r2/default/images/1776302302746-96899550-5f88-45f3-b59e-c89739eae738.png)
 
 Duración: 4 minutos y 29 segundos
 
@@ -268,8 +268,8 @@ Anexo Diagrama User Persona: https://goo.su/3jV074Q
 
 **Segmento 1: Propietarios de viviendas con áreas verdes**
 
-[![Santiago-Vela.png](https://i.postimg.cc/Sxpb2VSD/Santiago-Vela.png)](https://postimg.cc/LnvbGtZ1)
+![Santiago-Vela](https://www.image2url.com/r2/default/images/1776302352392-e9f7166d-e432-4ca4-83cf-e5f3e3e88c30.png)
 
 **Segmento 2: Estudiantes que alquilan**
 
-[![Arianna-Floress.png](https://i.postimg.cc/nL0yWJv6/Arianna-Floress.png)](https://postimg.cc/Ny2CyZC4)
+![Arianna-Flores](https://www.image2url.com/r2/default/images/1776302399195-d3ec3b28-132c-442c-a224-cdc974027da6.png)
