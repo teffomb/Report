@@ -218,7 +218,7 @@ En general, aunque no tiene una necesidad urgente, sí está abierto a solucione
 - Edad: 30 años
 - Ubicación: San Miguel, Lima
 
-[![Segmento-1-Entrevista-2-(Yusnury-Vivar)](https://i.postimg.cc/Fs9dQbc5/Yus-Entrevista.png)](https://postimg.cc/SjvN6MDD)
+![Segmento-1-Entrevista-2-(Yus-Vivar)](https://i.postimg.cc/Fs9dQbc5/Yus-Entrevista.png)
 
 Duración: 4 minutos y 29 segundos
 
@@ -260,3 +260,16 @@ El proceso de needfinding se centró en comprender a profundidad las necesidades
 
 Por un lado, los propietarios buscan mayor control, monitoreo y prevención de problemas como fugas o consumos excesivos, mientras que los estudiantes priorizan soluciones simples que se adapten a su estilo de vida y les permitan reducir gastos sin complicaciones. En conjunto, los hallazgos evidencian una oportunidad clara para desarrollar herramientas tecnológicas que faciliten el seguimiento del consumo de agua, promuevan hábitos más eficientes y se ajusten a las distintas dinámicas de cada tipo de usuario. Este análisis permitió establecer una base sólida para diseñar una solución alineada con las verdaderas necesidades y expectativas de ambos segmentos.
 
+### 2.3.1. User Personas
+
+En esta etapa se construyeron perfiles ficticios, conocidos como User Personas, que sintetizan las características más relevantes de los usuarios a partir del análisis de las entrevistas realizadas. Esta herramienta permite convertir la información recolectada en representaciones claras y útiles, que orientan el proceso de diseño y apoyan la toma de decisiones sobre funcionalidades y experiencia de uso. Para el desarrollo del proyecto, se definieron dos perfiles principales: uno enfocado en propietarios de viviendas con áreas verdes y otro en estudiantes que alquilan.
+
+Anexo Diagrama User Persona: https://goo.su/3jV074Q
+
+**Segmento 1: Propietarios de viviendas con áreas verdes**
+
+[![Santiago-Vela.png](https://i.postimg.cc/Sxpb2VSD/Santiago-Vela.png)](https://postimg.cc/LnvbGtZ1)
+
+**Segmento 2: Estudiantes que alquilan**
+
+[![Arianna-Floress.png](https://i.postimg.cc/nL0yWJv6/Arianna-Floress.png)](https://postimg.cc/Ny2CyZC4)
