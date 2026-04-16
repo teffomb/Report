@@ -218,7 +218,7 @@ En general, aunque no tiene una necesidad urgente, sí está abierto a solucione
 - Edad: 30 años
 - Ubicación: San Miguel, Lima
 
-![Segmento-1-Entrevista-2-(Yusnury-Vivar)](https://i.postimg.cc/Fs9dQbc5/Yus-Entrevista.png)
+[![Segmento-1-Entrevista-2-(Yusnury-Vivar)](https://i.postimg.cc/Fs9dQbc5/Yus-Entrevista.png)](https://postimg.cc/SjvN6MDD)
 
 Duración: 4 minutos y 29 segundos
 
@@ -251,3 +251,12 @@ En esta entrevista, Camila nos comenta cómo se maneja el consumo de agua en su 
 Asimismo, menciona que, aunque no está constantemente enfocada en ahorrar, intenta aplicar hábitos comunes de ahorro, como reducir el tiempo de ducha, entre otros. También expresa que una de sus principales frustraciones respecto al consumo de agua es que, en ocasiones, este se produce sin que sean conscientes de dónde ocurre.
 
 En cuanto a una posible aplicación, considera que sería útil siempre que sea rápida de usar, simple e intuitiva. Además, cree que debería incluir un área informativa con consejos que ayuden a fomentar el ahorro. Indica que, si contara con recordatorios constantes o incentivos, estaría más dispuesta a cambiar sus hábitos. Finalmente, menciona que estaría dispuesta a pagar por la aplicación después de un tiempo de uso, siempre que perciba que realmente vale la pena la inversión.
+
+### 2.2.3. Análisis de entrevistas
+
+## 2.3. Needfinding
+
+El proceso de needfinding se centró en comprender a profundidad las necesidades, hábitos y dificultades de dos segmentos clave: los propietarios de viviendas con áreas verdes, representados por Santiago Vela, y los estudiantes que alquilan, representados por Arianna Flores. A partir de entrevistas cualitativas, se lograron identificar tanto comportamientos compartidos como diferencias importantes entre ambos grupos, especialmente en la forma en que gestionan y perciben el consumo de agua dentro de sus hogares.
+
+Por un lado, los propietarios buscan mayor control, monitoreo y prevención de problemas como fugas o consumos excesivos, mientras que los estudiantes priorizan soluciones simples que se adapten a su estilo de vida y les permitan reducir gastos sin complicaciones. En conjunto, los hallazgos evidencian una oportunidad clara para desarrollar herramientas tecnológicas que faciliten el seguimiento del consumo de agua, promuevan hábitos más eficientes y se ajusten a las distintas dinámicas de cada tipo de usuario. Este análisis permitió establecer una base sólida para diseñar una solución alineada con las verdaderas necesidades y expectativas de ambos segmentos.
+
