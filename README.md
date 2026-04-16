@@ -317,3 +317,21 @@ Anexo Diagrama User Persona: https://goo.su/3jV074Q
 **Segmento 2: Estudiantes que alquilan**
 
 [![Arianna-Floress.png](https://i.postimg.cc/HLncJb9q/Arianna-Floress.png)](https://postimg.cc/zLmX6bM7)
+
+### 2.3.2. User Task Matrix
+
+El análisis de las entrevistas permitió organizar las principales actividades de los usuarios en una matriz comparativa que refleja cómo interactúan con el consumo de agua en su día a día. En esta se detallan las tareas más comunes de cada segmento, junto con qué tan seguido las realizan y la relevancia que tienen para ellos. Esta visión facilita entender diferencias y coincidencias entre los perfiles, y sirve como base para tomar decisiones más acertadas durante el diseño, enfocándose en lo que realmente aporta valor a la experiencia del usuario.
+
+| No. | Task | Santiago Vela |  | Arianna Flores |  |
+|-----|------|---------------|--------------|----------------|--------------|
+|     |      | Frequency     | Importance   | Frequency      | Importance   |
+| 1   | Revisar el consumo de agua en el recibo | Monthly | High | Monthly        | Medium |
+| 2   | Controlar el uso de agua en actividades diarias | Weekly | High | Occasionally   | Medium |
+| 3   | Detectar posibles fugas en el hogar | Weekly | High | Occasionally   | High |
+| 4   | Gestionar el riego de áreas verdes | Frequent | High | Rarely         | Low |
+| 5   | Identificar momentos de mayor consumo | Weekly | High | Occasionally   | Medium |
+| 6   | Aplicar prácticas de ahorro de agua | Frequent | High | Occasionally   | Medium |
+| 7   | Establecer objetivos de ahorro | Sometimes | High | Occasionally   | Medium |
+| 8   | Comparar consumo entre meses | Sometimes | Medium | Frequent         | Medium |
+| 9   | Supervisar el uso del agua en el hogar compartido | Frequent | High | Frequent       | High |
+| 10  | Buscar herramientas o soluciones para optimizar consumo | Occasionally | High | Occasionally   | High |
