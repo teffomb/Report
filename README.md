@@ -31,7 +31,7 @@ Al ser una iniciativa de un organismo público, es totalmente gratuita.
     <td colspan="4">El objetivo de este análisis es conocer mejor a los competidores que existen en el mercado de gestión inteligente del agua, entender qué están haciendo bien y mal, y así identificar en qué puntos HydroSmart puede diferenciarse. Esto es especialmente importante considerando que en Latinoamérica casi no hay soluciones digitales de este tipo consolidadas, lo que representa una gran oportunidad para la startup.</td>
   </tr>
   <tr>
-    <td colspan="2">(En la cabecera colocar por cada competidor nombre y logo)</td>
+    <td colspan="2"></td>
     <td><b>Su startup</b></td>
     <td><b>Competidor 1</b></td>
     <td><b>Competidor 2</b></td>
@@ -40,9 +40,21 @@ Al ser una iniciativa de un organismo público, es totalmente gratuita.
   <tr>
     <td colspan="2"></td>
     <td><b>HydroSmart</b><br>Perú / Latinoamérica</td>
-    <td><b>Hydrao</b><br>Francia</td>
-    <td><b>Dropcountr</b><br>EE.UU.</td>
-    <td><b>Yakumetro</b><br>Perú (SUNASS)</td>
+    <td>
+      <b>Hydrao</b>
+      <img src="images/hydraologo.png" width="40" height="40" align="right" alt="Hydrao logo"/>
+      <br>Francia
+    </td>
+    <td>
+      <b>Dropcountr</b>
+      <img src="images/dropcountrlogo.png" width="40" height="40" align="right" alt="Dropcountr logo"/>
+      <br>EE.UU.
+    </td>
+    <td>
+      <b>Yakumetro</b>
+      <img src="images/yakumetrologo.png" width="40" height="40" align="right" alt="Yakumetro logo"/>
+      <br>Perú (SUNASS)
+    </td>
   </tr>
 
   <!-- PERFIL -->
@@ -263,6 +275,27 @@ Además, destaca como una funcionalidad clave la capacidad de convertir los metr
 - Enlace: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202419592_upc_edu_pe/IQAZ2IPFjbWTTZ_xOW2i5HlNATj8WG2OuwSfyRpPb83ftjE
 - Duración: 7 minutos y 43 segundos
 
+**Entrevista 2:**
+
+- Nombres y Apellidos: Stephano Espinoza Cueva
+- Edad: 21 años
+- Ubicación: Jesus Maria, Lima
+
+<div align="center">
+<img src="images/entrevista2segmento2.png" alt="Entrevista-2-Segmento2" width="500">
+</div>
+
+Duración: 9 minutos y 47 segundos
+
+**Resumen de Entrevista:**
+
+El entrevistado se llama Stephano, el cual es un estudiante de la Universidad Peruana de Ciencias Aplicadas, él, junto a un compañero, alquila una cuarto cercano a la ubicación de su centro de estudio, al ser un estudiante y vivir independientemente, es muy importante para él oprimizar sus gastos. Él considera que su consumo de agua es eficiente, sin embargo, ha notado en ciertas ocasiones que el recibo de agua puede generar sorpresas en el monto a cobrar, él lo atribuye a pequeños momentos en el día a día que pueden generar un problema grande a fin de mes, como el uso desmedido e inconsiente del agua en ciertos momentos.
+
+Considera que una aplicación como la nuestra sería de suma utilidad para estudiantes como él que por el momento deben priorizar ahorrar en gastos básicos, opina que el hecho de saber su consumo diario o ver una estimación del monto a pagar a fin de mes son datos que le ayudarían bastante a conocer su uso del agua con el fin de ahorrar más dinero, además piensa que es innovador.
+
+Él menciona que le interesaría usar nuestra aplicación siempre y cuando cuente con una interfaz minimalista y con datos organizados y fáciles de entender, además, considera útil realizar el pago de alguna suscripción o mensualidad dentro de la aplicación si realmente lo propuesto cumple con su función y le ayuda a ahorrar dinero en los reicbos de agua a fin de mes. En general, considera útil la solución propuesta por HydroSmart y muestra interés de uso completo y pago si es que logra ver un ahorro en sus recibos de agua a fin de mes.
+
+
 ### 2.2.3. Análisis de entrevistas
 
 ## 2.3. Needfinding
@@ -284,21 +317,3 @@ Anexo Diagrama User Persona: https://goo.su/3jV074Q
 **Segmento 2: Estudiantes que alquilan**
 
 [![Arianna-Floress.png](https://i.postimg.cc/HLncJb9q/Arianna-Floress.png)](https://postimg.cc/zLmX6bM7)
-
-### 2.3.2. User Task Matrix
-
-El análisis de las entrevistas permitió organizar las principales actividades de los usuarios en una matriz comparativa que refleja cómo interactúan con el consumo de agua en su día a día. En esta se detallan las tareas más comunes de cada segmento, junto con qué tan seguido las realizan y la relevancia que tienen para ellos. Esta visión facilita entender diferencias y coincidencias entre los perfiles, y sirve como base para tomar decisiones más acertadas durante el diseño, enfocándose en lo que realmente aporta valor a la experiencia del usuario.
-
-| No. | Task | Santiago Vela |  | Arianna Flores |  |
-|-----|------|---------------|--------------|----------------|--------------|
-|     |      | Frequency     | Importance   | Frequency      | Importance   |
-| 1   | Revisar el consumo de agua en el recibo | Monthly | High | Monthly        | Medium |
-| 2   | Controlar el uso de agua en actividades diarias | Weekly | High | Occasionally   | Medium |
-| 3   | Detectar posibles fugas en el hogar | Weekly | High | Occasionally   | High |
-| 4   | Gestionar el riego de áreas verdes | Frequent | High | Rarely         | Low |
-| 5   | Identificar momentos de mayor consumo | Weekly | High | Occasionally   | Medium |
-| 6   | Aplicar prácticas de ahorro de agua | Frequent | High | Occasionally   | Medium |
-| 7   | Establecer objetivos de ahorro | Sometimes | High | Occasionally   | Medium |
-| 8   | Comparar consumo entre meses | Sometimes | Medium | Frequent         | Medium |
-| 9   | Supervisar el uso del agua en el hogar compartido | Frequent | High | Frequent       | High |
-| 10  | Buscar herramientas o soluciones para optimizar consumo | Occasionally | High | Occasionally   | High |
