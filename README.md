@@ -3,8 +3,7 @@
 ## 2.1. Competidores
 
 ### 1. Hydrao
-<div style="text-align: justify">
-
+<div style="text-align: justify"></div>
 Hydrao es una startup de origen francés que fabrica duchas inteligentes donde, mediante LED que cambian de color, indican el consumo de agua en litros en tiempo real. La aplicación móvil, que es gratuita, ofrece al usuario acceso a su historial de uso, visualización del progreso de ahorro de agua en sus hogares y establecer logros. Su uso de sistemas IoT la convierte en una referencia importante dentro del mercado de la optimización del agua en hogares.
 
 Su modelo de negocio incluye una aplicación gratuita; sin embargo, esta funciona únicamente con su producto, el cual tiene un costo superior a los 70 euros.
@@ -243,15 +242,25 @@ Si bien tiene conocimiento de prácticas básicas para ahorrar agua, como cerrar
 - Enlace: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202419592_upc_edu_pe/IQAZ2IPFjbWTTZ_xOW2i5HlNATj8WG2OuwSfyRpPb83ftjE
 - Duración: 7 minutos y 43 segundos
 
+**Entrevista 4:** 
+
+- Nombres y Apellidos: Paul Garcia Newman
+- Edad: 46 años
+- Ubicación: Jesus Maria, Lima
+
+<div align="center">
+  <img src="images/img.png" alt="Entrevista-4" width="500">
+</div>
+
+Duración: 8 minutos y 43 segundos
 
 **Resumen de Entrevista:**
 
-En esta entrevista, Camila nos comenta cómo se maneja el consumo de agua en su vivienda actual. Destaca que, aunque ella no es quien paga los recibos, sus hábitos y los de sus hermanas, con quienes vive, terminan afectando la economía familiar. Señala que, si bien en ocasiones piensa en el consumo de agua, no es algo recurrente; sin embargo, ha habido momentos en los que sus padres han llamado la atención sobre un consumo excesivo en actividades cotidianas.
+El entrevistado Paul, de 46 años, se dedica al rubro textil y reside en una vivienda de 120 m² con un pequeño jardín frontal. Actualmente, realiza el riego de sus áreas verdes de forma tradicional mediante una manguera durante las noches. Aunque considera que su consumo actual es normal para las cuatro personas que habitan el hogar, ha tenido experiencias negativas en el pasado con fugas difíciles de detectar en inodoros y problemas con medidores defectuosos, lo que le generó gastos innecesarios durante meses.
 
-Asimismo, menciona que, aunque no está constantemente enfocada en ahorrar, intenta aplicar hábitos comunes de ahorro, como reducir el tiempo de ducha, entre otros. También expresa que una de sus principales frustraciones respecto al consumo de agua es que, en ocasiones, este se produce sin que sean conscientes de dónde ocurre.
+Muestra un gran interés en una solución tecnológica que le brinde transparencia sobre su consumo en tiempo real. Específicamente, le gustaría que una aplicación le permitiera comparar el gasto diario con el recibo mensual y que incluya alertas inmediatas ante consumos inusualmente altos para prevenir fugas.
 
-En cuanto a una posible aplicación, considera que sería útil siempre que sea rápida de usar, simple e intuitiva. Además, cree que debería incluir un área informativa con consejos que ayuden a fomentar el ahorro. Indica que, si contara con recordatorios constantes o incentivos, estaría más dispuesta a cambiar sus hábitos. Finalmente, menciona que estaría dispuesta a pagar por la aplicación después de un tiempo de uso, siempre que perciba que realmente vale la pena la inversión.
-
+Además, destaca como una funcionalidad clave la capacidad de convertir los metros cúbicos consumidos directamente a soles, permitiéndole entender el impacto económico de su consumo día a día. En general, está dispuesto a invertir en una herramienta preventiva que le ayude a evitar cobros injustos y a optimizar el uso del agua por motivos de ahorro.
 ### 2.2.3. Análisis de entrevistas
 
 ## 2.3. Needfinding
