@@ -336,7 +336,7 @@ El análisis de las entrevistas permitió organizar las principales actividades 
 | 9   | Supervisar el uso del agua en el hogar compartido | Frequent | High | Frequent       | High |
 | 10  | Buscar herramientas o soluciones para optimizar consumo | Occasionally | High | Occasionally   | High |
 
-## 2.4 Big Picture EventStorming
+## 2.4. Big Picture EventStorming
 
 Para el desarrollo del Big Picture EventStorming de HydroSmart, se utilizó una herramienta colaborativa que es Miro, la cual permitió organizar de manera visual los eventos, actores y flujos del sistema enfocado en la gestión inteligente del consumo de agua en entornos residenciales.
 
@@ -382,3 +382,24 @@ Para el desarrollo del cuarto EventStorming se identificaron los eventos de domi
 El Big Picture EventStorming permitió establecer de manera clara el funcionamiento de HydroSmart, identificando los principales comportamientos, eventos, las reglas y los actores involucrados. 
 
 Asimismo ayudó a detectar ciertos puntos que no están del todo claros que deberán ser resueltos en etapas posteriores del desarrollo, para asegurar que la solución esté alineada con las necesidades reales de los usuarios.
+
+## 2.5. Ubiquitous Language
+
+| Ubiquitous Term       | Definición del Dominio Funcional                                                                                                  |
+|-----------------------|-----------------------------------------------------------------------------------------------------------------------------------|
+| User                  | Persona que utiliza la plataforma HydroSmart para monitorear y gestionar su consumo de agua.                                      |
+| Property Owner        | Propietario de una vivienda que usa HydroSmart para controlar el consumo de agua en su hogar.                                     |
+| Tenant                | Inquilino que utiliza la plataforma para supervisar su consumo de agua.                                                           |
+| Dashboard             | Interfaz principal de la plataforma donde el usuario puede visualizar su consumo, reportes, alertas, historial y recomendaciones. |
+| Water Consumption     | Cantidad de agua utilizada por el usuario en una cantidad de tiempo determinado.                                                  |
+| Consumption History   | Registro histórico del consumo de agua del usuario mostrado por periodos.                                                         |
+| Saving Goal           | Meta de ahorro definida por el usuario para reducir su consumo de agua.                                                           |
+| Saving Progress       | Avance del usuario respecto a la meta de ahorro establecida.                                                                      |
+| Report                | Resumen del consumo de agua mostrado de forma detallada.                                                                          |
+| Alert                 | Notificación emitida por el sistema cuando se detecta un consumo inusual, una posible fuga y otra situación relevante.            |
+| Anomalous Consumption | Consumo de agua que esta fuera del patrón normal registrado.                                                                      |
+| Recomendation         | Sugerencia genera automáticamente para ayudar al usuario a optimizar su consumo de agua.                                          |
+| Parameter             | Valor configurable dentro del sistema para personalizar elementos.                                                                |
+| Device                | Sensor asociado al monitoreo del consumo de agua.                                                                                 |
+| Authentication        | Proceso de validación de credenciales para permitir el acceso del usuario a la aplicación.                                        |
+| Notification          | Mensaje enviado al usuario para informarle sobre eventos importante detectados por el sistema.                                    |
