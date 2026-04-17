@@ -335,3 +335,50 @@ El análisis de las entrevistas permitió organizar las principales actividades 
 | 8   | Comparar consumo entre meses | Sometimes | Medium | Frequent         | Medium |
 | 9   | Supervisar el uso del agua en el hogar compartido | Frequent | High | Frequent       | High |
 | 10  | Buscar herramientas o soluciones para optimizar consumo | Occasionally | High | Occasionally   | High |
+
+## 2.4 Big Picture EventStorming
+
+Para el desarrollo del Big Picture EventStorming de HydroSmart, se utilizó una herramienta colaborativa que es Miro, la cual permitió organizar de manera visual los eventos, actores y flujos del sistema enfocado en la gestión inteligente del consumo de agua en entornos residenciales.
+
+Para ello se definió una leyenda:
+
+[![image.png](https://i.postimg.cc/Dy8b1KTM/image.png)](https://postimg.cc/3dQRHVWX)
+
+- **Domain Events:** Representa hechos del sistema ya ocurridos.
+- **Hotspot:** Punto de duda o mejora dentro del flujo.
+- **Definition:** Conceptos clave del dominio.
+- **Actor:** Usuario o sistema que ejecuta acciones.
+- **Command:** Acción que se desea ejecutar.
+- **Policy:** Regla que conecta eventos con acciones.
+- **External System:** Sistemas externos como proveedores de agua.
+
+**Big Picture EventStorming 1:**
+
+Para el desarrollo del primer EventStorming se identificaron los domain events relacionados con el registro y acceso del usuario a la plataforma, como la validación correcta de los datos, la creación del usuario y el inicio de sesión. Primero se reconocen los pasos que ejecuta el actor principal (propietario o inquilino), como registrarse en la aplicación, ingresar sus datos personales y autenticar sus credenciales para acceder al sistema. También se muestran las validaciones realizadas por HydroSmart. Finalmente, se plantean preguntas para mejorar el flujo, como qué datos mínimos solicitar al usuario y cómo validar correctamente la información. 
+
+[![Aplicaciones-Web-Big-Picture-Event-Storming-1.jpg](https://i.postimg.cc/TPJ3btNZ/Aplicaciones-Web-Big-Picture-Event-Storming-1.jpg)](https://postimg.cc/bGdPc9hT)
+
+**Big Picture EventStorming 2:**
+
+Para el desarrollo de este segundo EventStorming se identificaron los domain events relacionados con el monitoreo y visualización del consumo de agua, además de la generación de reportes y configuración de parámetros. Al igual que en el anterior se reconocen los pasos que ejecuta el actor principal para acceder al panel y a estos reportes. También se muestran las acciones de Hydrosmart como el procesamiento de información. Finalmente se plantean preguntas para mejorar el flujo, como qué métricas mostrar en pantalla.
+
+[![Aplicaciones-Web-Big-Picture-Event-Storming-2.jpg](https://i.postimg.cc/L6MYJQTP/Aplicaciones-Web-Big-Picture-Event-Storming-2.jpg)](https://postimg.cc/Z0VKgcXY)
+
+**Big Picture EventStorming 3:**
+
+Este tercer EventStorming se trató la detección de anomalías y generación de alertas. Se reconocieron los domain events relacionados junto con la presentación de sugerencias. Se reconocen los pasos que sigue el sistema, como analizar los patrones de consumo, comparar el comportamiento actual con umbrales definidos y la generación de notificaciones. Finalmente, se plantean hotspots acerca de cómo definir con precisión una falla o cada cuánto se realizan los análisis. 
+
+[![Aplicaciones-Web-Big-Picture-Event-Storming-3.jpg](https://i.postimg.cc/CM4Y4v0s/Aplicaciones-Web-Big-Picture-Event-Storming-3.jpg)](https://postimg.cc/QVVR8JHF)
+
+**Big Picture EventStorming 4:**
+
+Para el desarrollo del cuarto EventStorming se identificaron los eventos de dominio relacionados con el historial de consumo, la configuración de metas de ahorro y la generación de recomendaciones automáticas. Se reconocieron las acciones del usuario como actor principal como acceder a la sección, revisar el consumo y definir una meta. En cuanto a las acciones del sistema se consideró, el análisis de datos previos, el cálculo del progreso de ahorro y las sugerencias personalizadas. Finalmente, se plantean preguntas para mejorar el flujo, como cómo definir metas realistas y cómo mostrar el avance de forma clara.
+
+[![Aplicaciones-Web-Big-Picture-Event-Storming-4.jpg](https://i.postimg.cc/59rgDJfy/Aplicaciones-Web-Big-Picture-Event-Storming-4.jpg)](https://postimg.cc/Dmq1btJ3)
+
+
+**Conclusión**
+
+El Big Picture EventStorming permitió establecer de manera clara el funcionamiento de HydroSmart, identificando los principales comportamientos, eventos, las reglas y los actores involucrados. 
+
+Asimismo ayudó a detectar ciertos puntos que no están del todo claros que deberán ser resueltos en etapas posteriores del desarrollo, para asegurar que la solución esté alineada con las necesidades reales de los usuarios.
