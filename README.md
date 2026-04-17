@@ -271,9 +271,16 @@ Además, destaca como una funcionalidad clave la capacidad de convertir los metr
 
   [![Segmento-2-Entrevista-1-(Camila-Diaz-Diaz)-img.png](https://i.postimg.cc/vZDXHgGN/Segmento-2-Entrevista-1-(Camila-Diaz-Diaz)-img.png)](https://postimg.cc/VJQXKNrq)
 
+Duración: 7 minutos y 43 segundos
 
-- Enlace: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202419592_upc_edu_pe/IQAZ2IPFjbWTTZ_xOW2i5HlNATj8WG2OuwSfyRpPb83ftjE
-- Duración: 7 minutos y 43 segundos
+**Resumen de Entrevista**
+
+En esta entrevista, Camila nos comenta cómo se maneja el consumo de agua en su vivienda actual. Destaca que, aunque ella no es quien paga los recibos, sus hábitos y los de sus hermanas, con quienes vive, terminan afectando la economía familiar. Señala que, si bien en ocasiones piensa en el consumo de agua, no es algo recurrente; sin embargo, ha habido momentos en los que sus padres han llamado la atención sobre un consumo excesivo en actividades cotidianas.
+
+Asimismo, menciona que, aunque no está constantemente enfocada en ahorrar, intenta aplicar hábitos comunes de ahorro, como reducir el tiempo de ducha, entre otros. También expresa que una de sus principales frustraciones respecto al consumo de agua es que, en ocasiones, este se produce sin que sean conscientes de dónde ocurre.
+
+En cuanto a una posible aplicación, considera que sería útil siempre que sea rápida de usar, simple e intuitiva. Además, cree que debería incluir un área informativa con consejos que ayuden a fomentar el ahorro. Indica que, si contara con recordatorios constantes o incentivos, estaría más dispuesta a cambiar sus hábitos. Finalmente, menciona que estaría dispuesta a pagar por la aplicación después de un tiempo de uso, siempre que perciba que realmente vale la pena la inversión.
+
 
 **Entrevista 2:**
 
