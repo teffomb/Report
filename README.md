@@ -1,5 +1,7 @@
 #  Capítulo III: Requirements Specification
-## Épicas
+## 3.1 User Stories.
+
+### Épicas
 
 | Epic / Story ID | Título                                   | Descripción                                                                 | Criterios de Aceptación | Relación con Epic ID |
 |----------------|-------------------------------------------|-----------------------------------------------------------------------------|------------------------|----------------------|
@@ -13,7 +15,7 @@
 | EP08           | Landing Page                             | Como visitante, quiero conocer HydroSmart a través de su sitio web para entender sus beneficios y decidir si registrarme. | --                     |                      |
 | EP09           | API RESTful                              | Como developer, quiero consumir endpoints del API de HydroSmart para integrar las funcionalidades en el frontend. | --                     |                      |
 
-## User Stories
+### User Stories
 
 | Epic / Story ID | Título | Descripción | Criterios de Aceptación | Relación con Epic ID |
 |----------------|--------|------------|------------------------|----------------------|
