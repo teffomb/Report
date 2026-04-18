@@ -203,9 +203,13 @@ En esta sección se define la información a recolectar de los segmentos objetiv
 
 ### 2.2.2. Registro de entrevistas
 
+Url de las entrevistas: upc-pre-202610-1asi0730-2610-12263-HydroSmart https://shorturl.at/p85wb
+
 **Entrevistas Segmento 1: Propietarios de viviendas con áreas verdes**
 
 **Entrevista 1:**
+
+Instante en el que inicia: 0 minutos y 2 segundos
 
 - Nombres y Apellidos: Diego Andrey Paredes Rey de Castro
 - Edad: 32 años
@@ -225,6 +229,8 @@ En general, aunque no tiene una necesidad urgente, sí está abierto a solucione
 
 **Entrevista 2:**
 
+Instante en el que inicia: 4 minutos y 44 segundos
+
 - Nombres y Apellidos: Yusnury Vivar 
 - Edad: 30 años
 - Ubicación: San Miguel, Lima
@@ -240,6 +246,8 @@ En esta entrevista, Yusnury nos comenta que sí ha enfrentado inconvenientes rel
 Si bien tiene conocimiento de prácticas básicas para ahorrar agua, como cerrar correctamente las llaves y caños, siente que esto no es suficiente para tener un control real sobre su consumo. Por ello, le gustaría contar con una forma más precisa de monitorear el uso del agua y evitar desperdicios innecesarios. En este sentido, se muestra bastante interesada y abierta a adoptar una solución tecnológica que le permita gestionar mejor su consumo, prevenir fugas y reducir gastos de manera más eficiente
 
 **Entrevista 3:**
+
+Instante en el que inicia: 9 minutos y 14 segundos
 
 - Nombres y Apellidos: Paul Garcia Newman
 - Edad: 46 años
@@ -264,6 +272,8 @@ Además, destaca como una funcionalidad clave la capacidad de convertir los metr
 
 **Entrevista 1:**
 
+Instante en el que inicia: 18 minutos y 0 segundos
+
 - Nombres y Apellidos: Camila Luciana Diaz Diaz
 - Edad: 18 años
 - Ubicación: San Borja, Lima
@@ -284,6 +294,8 @@ En cuanto a una posible aplicación, considera que sería útil siempre que sea 
 
 **Entrevista 2:**
 
+Instante en el que inicia: 25 minutos y 40 segundos
+
 - Nombres y Apellidos: Stephano Espinoza Cueva
 - Edad: 21 años
 - Ubicación: Jesus Maria, Lima
@@ -301,6 +313,19 @@ El entrevistado se llama Stephano, el cual es un estudiante de la Universidad Pe
 Considera que una aplicación como la nuestra sería de suma utilidad para estudiantes como él que por el momento deben priorizar ahorrar en gastos básicos, opina que el hecho de saber su consumo diario o ver una estimación del monto a pagar a fin de mes son datos que le ayudarían bastante a conocer su uso del agua con el fin de ahorrar más dinero, además piensa que es innovador.
 
 Él menciona que le interesaría usar nuestra aplicación siempre y cuando cuente con una interfaz minimalista y con datos organizados y fáciles de entender, además, considera útil realizar el pago de alguna suscripción o mensualidad dentro de la aplicación si realmente lo propuesto cumple con su función y le ayuda a ahorrar dinero en los reicbos de agua a fin de mes. En general, considera útil la solución propuesta por HydroSmart y muestra interés de uso completo y pago si es que logra ver un ahorro en sus recibos de agua a fin de mes.
+
+**Entrevista 3:**
+
+Instante en el que inicia: 35 minutos y 25 segundos
+
+- Nombre y Apellidos:
+- Edad:
+- Ubicación:
+
+
+Duración:
+
+**Resumen de Entrevista:**
 
 
 ### 2.2.3. Análisis de entrevistas
