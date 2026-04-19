@@ -51,6 +51,85 @@ En HydroSmart, la comunicación se construye en torno a una propuesta centrada e
 
 ### 4.1.2. Web Style Guidelines
 
+**Descripción General:**
+
+Este diseño representa la landing page de HydroSmart, una solución orientada a mejorar la gestión del consumo de agua en el hogar mediante el uso de tecnología. La interfaz está pensada para ofrecer una experiencia sencilla y práctica, permitiendo a los usuarios visualizar su consumo, identificar posibles desperdicios y tomar decisiones informadas. A través de sus funcionalidades, la plataforma busca facilitar el control del uso del agua, promoviendo hábitos más eficientes y contribuyendo tanto al ahorro económico como al uso responsable de los recursos.
+
+**Header y Navegación:**
+
+En esta sección se establece la identidad de navegación de la plataforma. Presenta el logotipo de HydroSmart a la izquierda para reforzar el branding, seguido de un menú de navegación limpio que permite el acceso directo a los puntos clave de la página. Finaliza con un botón de llamada a la acción (Call to Action) destacado en azul marino, diseñado para captar conversiones inmediatas.
+
+- Arquitectura: Presenta un menú horizontal con una distribución de espaciado equilibrada que mejora la experiencia de usuario (UX).
+
+- Conversión: Incluye un botón de acción con un radio de borde redondeado y un color de contraste, ubicado estratégicamente al final del recorrido visual para incentivar el registro.
+
+<div>
+<img src="images/cabezeraHydroSmart.PNG" width="450" height="40">
+</div> 
+<br>
+
+**Inicio:**
+
+Aquí se presenta la propuesta de valor principal mediante un eslogan potente sobre una imagen conceptual de agua en movimiento, evocando precisión y claridad. El diseño utiliza una tipografía robusta en blanco para garantizar la legibilidad y un botón de "Optimizar Ahora" que guía al usuario hacia el primer paso de la transformación hídrica.
+
+- Estética: Se utiliza una imagen con texturas hídricas que refuerzan el propósito de la marca.
+
+- Jerarquía:La tipografía en caja alta para el eslogan principal asegura que el mensaje de "tecnología inteligente" sea el centro de atención inmediato.
+
+<div>
+<img src="images/inicioHydroSmart.PNG" width="450" height="200">
+</div> 
+<br>
+
+**Beneficios (¿Por qué elegirnos?):**
+
+En esta sección, se utilizan tarjetas asimétricas con iconos de línea fina en degradado para desglosar las ventajas competitivas del software. Se enfoca en pilares como el ahorro estratégico, el control 24/7 y el eco-cumplimiento, utilizando un lenguaje directo que conecta el beneficio técnico con la necesidad del cliente.
+
+<div>
+<img src="images/beneficiosHydroSmart.PNG" width="480" height="300">
+</div> 
+<br>
+
+**Características (Poder Tecnológico):**
+
+Esta sección cambia el ritmo visual hacia un fondo oscuro (Dark Mode) para transmitir robustez y alta tecnología. Describe las capacidades internas de la app, como la IA Predictiva y la Auditoría Ambiental, utilizando iconos minimalistas en color verde menta que resaltan sobre el azul profundo.
+
+<div>
+<img src="images/caracteristicasHydroSmart.PNG" width="480" height="230">
+</div> 
+<br>
+
+**Planes:**
+
+Aquí se despliega la arquitectura comercial de HydroSmart. A través de una comparativa de tres niveles (Básico, Pro y Smart), se detallan las funcionalidades de cada suscripción. El plan "Pro" se destaca visualmente como la opción recomendada mediante un cambio de color y una etiqueta superior, facilitando la toma de decisiones del usuario.
+
+<div>
+<img src="images/planesHydroSmart.PNG" width="480" height="350">
+</div> 
+<br>
+
+**Nosotros:**
+
+Utiliza un layout limpio con contenedores para fotografías y descripciones de rol, manteniendo la paleta de colores corporativa para generar confianza y transparencia.
+
+**FAQ:**
+
+Diseñada para resolver dudas rápidas, esta sección utiliza un formato de acordeón minimalista. Su estructura de fondo claro y bordes suaves permite que el usuario encuentre respuestas sobre la compatibilidad y el funcionamiento de la app sin generar fatiga visual.
+
+<div>
+<img src="images/faqHydroSmart.PNG" width="480" height="270">
+</div> 
+<br>
+
+**Footer:**
+
+Finalmente, en esta sección se consolida la información de contacto y legal. Presenta un breve resumen de la misión de la empresa, enlaces rápidos de exploración, iconos de redes sociales para fomentar la comunidad digital y los créditos de propiedad intelectual, cerrando la página con sobriedad y profesionalismo.
+
+<div>
+<img src="images/footerHydroSmart.PNG" width="480" height="130">
+</div> 
+<br>
+
 ## 4.2. Information Architecture
 
 ### 4.2.1. Organization Systems
