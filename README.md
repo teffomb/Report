@@ -132,6 +132,31 @@ Finalmente, en esta sección se consolida la información de contacto y legal. P
 
 ## 4.2. Information Architecture
 
+UX Heuristics & Principles Evaluation 
+Usability – Inclusive Design – Information Architecture
+CARRERA: Ingeniería de Software
+CURSO: Aplicaciones Web
+NRC: 12263
+PROFESOR: Rafael Oswaldo Castro Veramendi
+CLIENTE(S): Yusnury Vivar Olivos, Camila Díaz Díaza
+SITE o APP A EVALUAR: HydroSmart
+
+TAREAS A EVALUAR:
+El alcance de esta evaluación contempla el análisis de la usabilidad en la ejecución de las siguientes tareas:
+
+Segmento Objetivo #1: Propietarios de viviendas con áreas verdes
+
+- **Monitoreas el consumo de agua en el hogar:** Facilidad para visualizar información clara sobre el uso del agua en tiempo real y comprender los datos presentados.
+- **Gestionar el riego de áreas verdes:** Simplicidad en el control y seguimiento del consumo asociado al riego, así como en la identificación de posibles excesos.
+- **Detectar fugas o consumos inusuales:** Eficiencia del sistema para alertar sobre anomalías y facilidad para interpretar dichas notificaciones.
+
+
+Segmento Objetivos #2: Estudiantes que alquilan 
+
+- **Visualizar el consumo compartido del hogar:** Claridad en la presentación del consumo total y facilidad para entender cómo se distribuye entre los usuarios.
+- **Controlar y reducir gastos de agua:** Utilidad de la información brindada para tomar decisiones orientadas al ahorro.
+- **Recibir alertas y recomendaciones:** Facilidad para entender notificaciones relacionadas con el consumo y aplicar sugerencias para mejorar hábitos.
+
 ### 4.2.1. Organization Systems
 
 En el diseño de productos digitales centrados en el usuario, la forma en la que se organiza la información es fundamental para garantizar una experiencia clara y eficiente. El Organization System define cómo se estructuran y presentan los contenidos dentro de la interfaz, permitiendo que los usuarios comprendan rápidamente el propósito de la solución y naveguen sin dificultad. Una adecuada organización contribuye a reducir la complejidad, mejorar la orientación y destacar los elementos más importantes.
