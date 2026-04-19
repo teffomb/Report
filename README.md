@@ -133,12 +133,19 @@ Finalmente, en esta sección se consolida la información de contacto y legal. P
 ## 4.2. Information Architecture
 
 UX Heuristics & Principles Evaluation 
+<br>
 Usability – Inclusive Design – Information Architecture
+<br>
 CARRERA: Ingeniería de Software
+<br>
 CURSO: Aplicaciones Web
+<br>
 NRC: 12263
+<br>
 PROFESOR: Rafael Oswaldo Castro Veramendi
-CLIENTE(S): Yusnury Vivar Olivos, Camila Díaz Díaza
+<br>
+CLIENTE(S): Yusnury Vivar Olivos, Camila Díaz Díaz
+<br>
 SITE o APP A EVALUAR: HydroSmart
 
 TAREAS A EVALUAR:
