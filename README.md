@@ -2,6 +2,9 @@
 
 ## 4.1. Style Guidelines
 
+### 4.1.1. General Style Guidelines
+
+
 **Tipografía**
 
 La tipografía seleccionada para el desarrollo del landing y todos los contenidos textuales es Hind. Esta elección responde a la necesidad de contar con una fuente altamente legible en entornos digitales, especialmente en dispositivos móviles, donde la claridad y la facilidad de lectura son fundamentales para la experiencia del usuario.
@@ -15,6 +18,7 @@ Por otro lado, para el diseño del logotipo se optó por una tipografía sans se
 <div>
 <img src="images/coloresHydroSmart.PNG" width="430" height="500">
 </div>
+
 
 La paleta de colores del proyecto ha sido definida para transmitir una identidad visual coherente con el enfoque tecnológico y sostenible de la solución. El azul oscuro (#031635) actúa como color principal, aportando una sensación de confianza, solidez y profesionalismo, lo cual es clave en una plataforma orientada a la gestión de recursos.
 
@@ -43,8 +47,6 @@ En HydroSmart, la comunicación se construye en torno a una propuesta centrada e
 
 
 - **Positivo y enfocado en resultados:** La comunicación transmite una visión donde el uso eficiente del agua es alcanzable. Se busca generar una percepción de utilidad real, mostrando que la tecnología puede aportar mejoras tangibles en la vida diaria.
-
-### 4.1.1. General Style Guidelines
 
 ### 4.1.2. Web Style Guidelines
 
