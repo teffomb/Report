@@ -379,6 +379,14 @@ El análisis de las entrevistas permitió organizar las principales actividades 
 | 9   | Supervisar el uso del agua en el hogar compartido | Frequent | High | Frequent       | High |
 | 10  | Buscar herramientas o soluciones para optimizar consumo | Occasionally | High | Occasionally   | High |
 
+### 2.3.2. User Journey Mapping
+
+User Journey Mapping Segmento 1:
+<img src="images/User_Journey_Mapping_Segmento_1.png" alt="User_Journey_Mapping_Segmento_1.png" width="500">
+
+User Journey Mapping Segmento 2:
+<img src="images/User_Journey_Mapping_Segmento_2.png" alt="User_Journey_Mapping_Segmento_2.png" width="500">
+
 ## 2.4. Big Picture EventStorming
 
 Para el desarrollo del Big Picture EventStorming de HydroSmart, se utilizó una herramienta colaborativa que es Miro, la cual permitió organizar de manera visual los eventos, actores y flujos del sistema enfocado en la gestión inteligente del consumo de agua en entornos residenciales.
