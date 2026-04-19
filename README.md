@@ -17,7 +17,8 @@ Por otro lado, para el diseño del logotipo se optó por una tipografía sans se
 
 <div>
 <img src="images/coloresHydroSmart.PNG" width="430" height="500">
-</div>
+</div> 
+<br>
 
 
 La paleta de colores del proyecto ha sido definida para transmitir una identidad visual coherente con el enfoque tecnológico y sostenible de la solución. El azul oscuro (#031635) actúa como color principal, aportando una sensación de confianza, solidez y profesionalismo, lo cual es clave en una plataforma orientada a la gestión de recursos.
@@ -53,6 +54,16 @@ En HydroSmart, la comunicación se construye en torno a una propuesta centrada e
 ## 4.2. Information Architecture
 
 ### 4.2.1. Organization Systems
+
+En el diseño de productos digitales centrados en el usuario, la forma en la que se organiza la información es fundamental para garantizar una experiencia clara y eficiente. El Organization System define cómo se estructuran y presentan los contenidos dentro de la interfaz, permitiendo que los usuarios comprendan rápidamente el propósito de la solución y naveguen sin dificultad. Una adecuada organización contribuye a reducir la complejidad, mejorar la orientación y destacar los elementos más importantes.
+
+En el caso de HydroSmart, la Landing Page de su aplicación AquaPulse está estructurada en secciones que siguen una secuencia lógica orientada a la comprensión progresiva del producto. En primer lugar, se presenta un hero section con un mensaje directo que comunica el valor principal de la aplicación, acompañado de un llamado a la acción visible (“Optimizar ahora”). Esta sección busca captar la atención del usuario y motivarlo a interactuar desde el inicio.
+
+A continuación, el contenido se organiza en bloques que desarrollan la propuesta, incluyendo apartados como beneficios, características y funcionalidades clave de AquaPulse. Estas secciones permiten al usuario entender cómo la aplicación contribuye al monitoreo y optimización del consumo de agua en el hogar. Posteriormente, se incorporan elementos complementarios como los planes de suscripción, la presentación del equipo y una sección de preguntas frecuentes, los cuales ayudan a reforzar la confianza y resolver dudas antes de la toma de decisión.
+
+Asimismo, tanto el header como el footer cumplen un rol importante dentro de la estructura, ya que agrupan los accesos principales y secundarios de navegación, facilitando el recorrido del usuario dentro de la página. Esta organización permite que cualquier visitante identifique rápidamente qué es AquaPulse, qué beneficios ofrece y cómo puede comenzar a utilizarla.
+
+En conjunto, la estructura planteada responde a un enfoque centrado en el usuario, asegurando una experiencia ordenada, intuitiva y adaptable a distintos dispositivos.
 
 ### 4.2.2. Labeling Systems
 
