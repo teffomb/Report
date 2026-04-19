@@ -318,15 +318,21 @@ Considera que una aplicación como la nuestra sería de suma utilidad para estud
 
 Instante en el que inicia: 35 minutos y 25 segundos
 
-- Nombre y Apellidos:
-- Edad:
-- Ubicación:
+- Nombre y Apellidos: Rodrigo Valencia
+- Edad: 22
+- Ubicación: Carabayllo, Lima
 
+<img src="images/Entrevista_Rodrigo.jpeg" alt="Entrevista_Rodrigo" width="500">
 
-Duración:
+Duración: 3 minutos y 46 segundos
 
 **Resumen de Entrevista:**
 
+El entrevistado se llama Rodrigo, un joven de 22 años que se desempeña como estudiante y profesional freelance de animación digital. Actualmente vive solo, por lo que el manejo de su presupuesto mensual es un factor clave en su organización personal. Rodrigo estima que el gasto de agua representa aproximadamente un 2% de sus ingresos (entre 20 y 30 soles), y aunque se considera una persona consciente que intenta ahorrar y utilizar solo lo necesario, ha experimentado "sorpresas" en sus recibos, llegando a pagar montos inusuales de hasta 40 soles.
+
+Considera que la posibilidad de visualizar su consumo en tiempo real desde el celular cambiaría positivamente su rutina, ya que le permitiría tener una proyección clara de cuánto pagará a fin de mes. Rodrigo destaca que las alertas de consumo excesivo serían fundamentales para ayudarlo a autocontrolarse y evitar exceder sus límites diarios.
+
+Para él, es indispensable que la aplicación cuente con una interfaz simple y directa, pues opina que una plataforma demasiado complicada resultaría confusa y terminaría por desincentivar su uso. Asimismo, señala que el exceso de anuncios sería un motivo para abandonar la herramienta. Finalmente, muestra una disposición favorable a pagar por la aplicación, viéndolo como una inversión que le permitirá optimizar sus gastos y evitar cobros excesivos en sus servicios básicos.
 
 ### 2.2.3. Análisis de entrevistas
 
