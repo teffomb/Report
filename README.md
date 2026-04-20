@@ -180,6 +180,17 @@ En conjunto, la estructura planteada responde a un enfoque centrado en el usuari
 
 ### 4.2.3. SEO Tags and Meta Tags
 
+### 4.2.4. Searching Systems
+
+Al ingresar a HydroSmart, el usuario encontrará su información de consumo organizada de forma clara y accesible, reduciendo la necesidad de búsquedas complejas.
+
+Para los casos en que el usuario requiera consultar datos específicos, la aplicación contará con opciones de filtrado dentro de la sección de historial, permitiendo seleccionar el período de tiempo deseado entre vistas diarias, semanales y mensuales.
+
+En el caso de los arrendadores, se añade la posibilidad de filtrar por unidad de inmueble, facilitando la identificación del consumo individual de cada inquilino.
+
+Los resultados se presentan mediante gráficos y tablas ordenadas cronológicamente, permitiendo al usuario reconocer patrones de consumo o detectar anomalías con facilidad.
+
+El sistema está diseñado para que la información relevante esté siempre al alcance del usuario sin necesidad de realizar búsquedas extensas, priorizando una experiencia fluida y directa que se adapta tanto a propietarios como a inquilinos según su perfil.
 ## 4.5. Web Applications Prototyping
 ## 4.6. Domain-Driven Software Architecture
 ### 4.6.1. Design-Level EventStorming
