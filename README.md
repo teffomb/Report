@@ -222,7 +222,9 @@ En esta sección se presenta la propuesta de diseño de interfaz para la Landing
 #### 1. Home
 - La interfaz presenta un header fijo que incluye el logotipo de HydroSmart y el menú principal con las secciones Inicio, Beneficios, Características, Planes, Nosotros y FAQ, acompañado de un botón de llamada a la acción "Empezar Ahora" visualmente destacado. La sección hero presenta un mensaje principal con un subtítulo descriptivo y un botón de acción. En las secciones intermedias se presentan los beneficios en formato de seis tarjetas con íconos, seguidas de la sección de poder tecnológico. El diseño es claro y enfocado en la conversión, guiando al usuario de manera natural desde el primer contacto hasta la acción final.
 
- ![homeWireframe.PNG](images/homeWireframe.PNG)
+<div align="center">
+    <img src="images/homeWireframe.PNG" alt="planes Wireframe" width="500">
+</div>
 
 ### 2. Planes y Nosotros
 
