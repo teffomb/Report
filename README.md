@@ -191,6 +191,28 @@ En el caso de los arrendadores, se añade la posibilidad de filtrar por unidad d
 Los resultados se presentan mediante gráficos y tablas ordenadas cronológicamente, permitiendo al usuario reconocer patrones de consumo o detectar anomalías con facilidad.
 
 El sistema está diseñado para que la información relevante esté siempre al alcance del usuario sin necesidad de realizar búsquedas extensas, priorizando una experiencia fluida y directa que se adapta tanto a propietarios como a inquilinos según su perfil.
+
+### 4.2.5. Navigation Systems
+La navegación es un elemento fundamental HydroSmart porque estructura el recorrido del usuario y facilita el acceso a la información clave sobre la plataforma. Bajo principios de simplicidad, accesibilidad y jerarquía visual, el sistema de navegación ha sido diseñado para garantizar una experiencia clara e intuitiva tanto en dispositivos de escritorio como en móviles.
+HydroSmart implementa un sistema de navegación global, persistente y horizontal, ubicado en la parte superior de la página. Este está compuesto por los siguientes elementos principales:
+
+- Inicio: vinculado al logotipo de HydroSmart, permite regresar a la sección principal desde cualquier punto de la página.
+- Beneficios: apartado que resalta las ventajas concretas de usar HydroSmart para cada segmento objetivo.
+- Características: detalle de las funcionalidades principales de la plataforma.
+- Planes: presenta las opciones de suscripción disponibles: Básico, Pro y Smart.
+- Nosotros: ofrece información sobre la misión, visión y equipo detrás de HydroSmart.
+- FAQ: sección de preguntas frecuentes que resuelve las dudas más comunes de los visitantes.
+- Empezar Ahora (CTA): botón destacado que impulsa la conversión, visualmente diferenciado del resto de enlaces, redirigiendo al usuario al registro de la aplicación.
+
+El diseño del header utiliza un fondo uniforme con elementos de alto contraste, siguiendo un estilo minimalista que evita distracciones y centra la atención en las decisiones de navegación. La organización de los enlaces sigue una estructura en tres zonas: el logotipo alineado a la izquierda, las secciones principales al centro y el botón de acción alineado a la derecha.
+En cuanto a adaptabilidad, la barra de navegación está construida bajo un enfoque mobile-first, ajustándose dinámicamente a distintas resoluciones. En pantallas pequeñas, el menú horizontal se convierte en un menú tipo hamburguesa, asegurando que todas las secciones permanezcan accesibles sin comprometer la usabilidad.
+Finalmente, la navegación en HydroSmart cumple con los siguientes principios de usabilidad:
+
+- Claridad: los enlaces son directos y fácilmente identificables.
+- Consistencia: la barra se mantiene visible y uniforme en todo momento.
+- Jerarquía: las secciones más relevantes están ubicadas estratégicamente en el centro de la navegación.
+- Retroalimentación visual: se incluyen estados hover y focus que refuerzan la interacción del usuario.
+
 ## 4.5. Web Applications Prototyping
 ## 4.6. Domain-Driven Software Architecture
 ### 4.6.1. Design-Level EventStorming
