@@ -397,3 +397,10 @@ A continuación se detallan las clases, enumeraciones y estructuras que conforma
 | Clase/Enum | Descripción | Atributos | Métodos |
 |-------------|--------------|------------|-----------|
 | **CostCalculator** | Entidad de servicio que aplica el tarifario vigente de Sedapal. | - **pricePerCubicMeter**: double<br>- **fixedCharge**: double<br>- **taxRate**: double | - **calculate**(liters): Devuelve costo total en soles |
+
+## 4.8. Database Design.
+### 4.8.1. Database Diagrams.
+
+<img src="./images/database_diagram.jpeg">
+
+<div style="page-break-after: always;"></div>
