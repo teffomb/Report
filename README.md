@@ -338,3 +338,11 @@ Dentro de la aplicación, el dominio está dividido en los siguientes componente
 Este diagrama muestra cómo la aplicación se encuentra estructurada a partir de los bounded contexts y cómo se conectan tanto con servicios externos como con la base de datos del sistema.
 
 [![diagram.png](https://i.postimg.cc/yYMYCRgT/diagram.png)](https://postimg.cc/HVtCQVtJ)
+
+
+## 4.7. Software Object-Oriented Design.
+
+### 4.7.1. Class Diagrams.
+<p>En esta sección se presentan los diagramas de clases que representan la estructura del sistema, incluyendo las entidades principales, sus atributos y métodos, así como las relaciones entre ellas. Estos diagramas son fundamentales para comprender cómo se modelan los datos y las interacciones dentro de la aplicación.</p>
+
+<img src="./images/diagrama_de_clase.png">
