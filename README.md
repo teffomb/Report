@@ -272,7 +272,7 @@ En esta etapa inicial, se procedió al diseño de mockups de alta fidelidad, los
 
 Los componentes de la interfaz fueron organizados siguiendo flujos de usuario validados previamente, tomando como referencia los Empathy Maps y User Journey Maps desarrollados en fases anteriores. Esto asegura que cada acción del usuario tenga un propósito claro y un recorrido intuitivo dentro de la experiencia de la plataforma.
 
-La estructura de navegación ha sido concebida para ofrecer una experiencia inclusiva y eficiente, aplicando criterios de accesibilidad (a11y) para garantizar que la plataforma sea usable para todos, y soporte multilenguaje (i18n) para una adopción global.
+La estructura de navegación ha sido concebida para ofrecer una experiencia eficiente e inclusiva, aplicando criterios de accesibilidad (a11y) para garantizar que la plataforma sea usable para todos, y soporte multilenguaje (i18n) para una adopción global.
 
 Se integrarán servicios RESTful para la comunicación con el backend y se crearán prototipos navegables que permitan validar funcionalmente las interacciones más críticas del sistema con usuarios reales. Esto asegurará que la solución digital de HydroSmart no solo sea atractiva visualmente, sino también robusta, intuitiva y alineada con las expectativas de sus usuarios.
 ## 4.5. Web Applications Prototyping
