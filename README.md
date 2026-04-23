@@ -283,7 +283,7 @@ Aunque el enfoque inicial debe estar en Lima, donde se concentra la mayor parte 
 - **Medir el impacto real en los usuarios desde el inicio:**  
 Aunque el enfoque inicial debe estar en Lima, donde se concentra la mayor parte del mercado potencial, se recomienda documentar desde ya las decisiones de diseño y desarrollo considerando una futura expansión a otras ciudades del Perú y eventualmente a países como Ecuador, Colombia o Bolivia, que comparten condiciones de mercado similares.
 
-## Bibliografía
+# Bibliografía
 
 - Superintendencia Nacional de Servicios de Saneamiento (SUNASS). (2022). *Fugas de agua en instalaciones domiciliarias: impacto económico y ambiental en el usuario residencial*. SUNASS. Recuperado de https://www.sunass.gob.pe/
 - Servicio de Agua Potable y Alcantarillado de Lima (SEDAPAL). (2025). *Sitio web oficial de SEDAPAL*. Recuperado el 5 de abril de 2025, de https://www.sedapal.com.pe/
