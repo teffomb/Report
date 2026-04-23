@@ -228,3 +228,74 @@ El objetivo principal fue entregar una solución mínima viable que permita a lo
 | HydroSmart-Landing-Page| develop | b9722ab   | feat(suscription): clean up suscription css              | 20/04/2026         |
 | HydroSmart-Landing-Page| develop | a54e72c   | feat(subscription): add responsive styles to suscription | 20/04/2026         |
 | HydroSmart-Landing-Page| develop | fe0ad44   | feat(suscription): updated stylesSuscription             | 20/04/2026         |
+
+---
+
+# Conclusiones y Recomendaciones
+
+## Conclusiones
+
+- **La gestión del agua en el hogar necesita urgentemente digitalizarse:**  
+  A través del proceso de needfinding y el análisis de la problemática, se confirmó que la mayoría de usuarios residenciales en Perú todavía depende de medidores analógicos y facturas mensuales para enterarse de cuánta agua consumen. Esto hace que detectar una fuga o un consumo excesivo tome semanas, cuando el daño económico ya está hecho. HydroSmart responde directamente a esa brecha, transformando datos de consumo en información útil y en tiempo real.
+
+- **Dos segmentos distintos, una misma necesidad de control:**  
+ Las entrevistas y el análisis de usuarios confirmaron la existencia de dos perfiles claramente diferenciados: los propietarios de viviendas con áreas verdes, que buscan controlar el riego y evitar pérdidas por fugas; y los estudiantes o jóvenes arrendatarios, que necesitan herramientas accesibles para no llevarse sorpresas en sus recibos. Ambos segmentos mostraron disposición para adoptar soluciones digitales, siempre que sean simples y visualmente claras.
+
+- **HydroSmart se diferencia por ser accesible y pensada para el contexto latinoamericano:**  
+ A diferencia de competidores como Hydrao, que requiere inversión en hardware físico, o Dropcountr, que opera en un contexto anglosajón, HydroSmart apuesta por un modelo completamente digital y freemium, eliminando barreras de entrada para los segmentos B y C del mercado peruano. Esto la posiciona como una solución más realista para la realidad económica local.
+
+- **El impacto económico y ambiental es cuantificable:**  
+ Los datos recopilados durante el needfinding muestran que una fuga no detectada puede desperdiciar hasta 150,000 litros de agua al mes, y que el riego ineficiente en jardines genera un gasto hasta 50% mayor al necesario. Con HydroSmart, los usuarios pueden reducir al menos un 20% su factura de agua en los primeros tres meses de uso, lo cual representa un beneficio concreto y medible que justifica la adopción de la plataforma.
+
+- **La arquitectura del producto está bien definida para escalar:**  
+  El diseño basado en eventos (Big Picture EventStorming) y el uso del Impact Mapping permitieron identificar claramente los comportamientos esperados de cada segmento y las funcionalidades necesarias para generarlos. Esto le da al equipo una hoja de ruta estructurada que facilita el desarrollo iterativo sin perder de vista los objetivos de negocio.
+
+- **El modelo de negocio freemium es viable para el mercado objetivo:**  
+  La estrategia de ofrecer una versión gratuita con funcionalidades básicas y una suscripción de pago con características avanzadas se alinea con las características del mercado peruano, donde el precio es una barrera real pero los usuarios están dispuestos a pagar cuando perciben valor tangible, como el ahorro en la factura mensual o la prevención de pérdidas económicas.
+
+- **Los objetivos de negocio son alcanzables y están bien planteados:**  
+  Las metas definidas, alcanzar 800 usuarios activos en 6 meses y aumentar la retención en un 25% en 9 meses, son ambiciosas pero realistas si se acompañan de una buena estrategia de onboarding, contenido educativo y alianzas institucionales. El Impact Mapping desarrollado conecta correctamente esos objetivos con acciones concretas dentro del producto.
+
+
+## Recomendaciones
+
+- **Priorizar las alertas inteligentes en los primeros sprints:**  
+  Dado que tanto propietarios como estudiantes mencionaron la detección tardía de problemas como su principal frustración, se recomienda que las alertas automáticas de consumo excesivo y posibles fugas sean de las primeras funcionalidades en implementarse. Son el diferencial más valioso de HydroSmart frente a las soluciones actuales.
+
+- **Diseñar un onboarding simple y motivador:**  
+  Para que los usuarios de ambos segmentos adopten la app con facilidad, se sugiere implementar un proceso de bienvenida paso a paso que explique cómo interpretar los datos de consumo, cómo configurar metas de ahorro y cómo activar las notificaciones. Un usuario que entiende la app desde el primer día tiene muchas más probabilidades de quedarse.
+
+- **Buscar alianza con SEDAPAL lo antes posible:**  
+  Una integración con los datos reales de consumo de SEDAPAL le daría a HydroSmart una ventaja competitiva enorme y difícil de replicar por competidores extranjeros. Se recomienda iniciar conversaciones con esta entidad desde etapas tempranas del proyecto, incluso si la integración técnica se realiza más adelante.
+
+- **Invertir en contenido educativo sobre ahorro de agua:**  
+Muchos usuarios aún no tienen una cultura de monitoreo del consumo hídrico, por lo que no buscan activamente una solución como HydroSmart. Publicar contenido en redes sociales, blogs o videos cortos sobre el impacto económico de las fugas y el riego ineficiente puede generar conciencia y atraer usuarios orgánicamente, posicionando a la startup como referente en el tema.
+
+- **Realizar pruebas de usabilidad con usuarios reales cada dos sprints:**  
+Ambos segmentos priorizaron la simplicidad como factor clave para adoptar la solución. Para asegurarse de que la interfaz sigue siendo intuitiva conforme se agregan nuevas funcionalidades, se recomienda hacer sesiones cortas de prueba con usuarios reales con regularidad, identificando puntos de confusión antes de que se conviertan en razones para dejar de usar la app.
+
+- **Explorar versiones diferenciadas por segmento:**  
+Dado que los propietarios y los estudiantes tienen necesidades distintas, podría evaluarse la posibilidad de ofrecer flujos de experiencia personalizados según el perfil del usuario al momento del registro. Esto haría que cada persona sienta que la app fue diseñada específicamente para su situación, lo cual aumenta el valor percibido.
+
+- **Planificar la expansión regional desde ahora:**  
+Aunque el enfoque inicial debe estar en Lima, donde se concentra la mayor parte del mercado potencial, se recomienda documentar desde ya las decisiones de diseño y desarrollo considerando una futura expansión a otras ciudades del Perú y eventualmente a países como Ecuador, Colombia o Bolivia, que comparten condiciones de mercado similares.
+
+- **Medir el impacto real en los usuarios desde el inicio:**  
+Aunque el enfoque inicial debe estar en Lima, donde se concentra la mayor parte del mercado potencial, se recomienda documentar desde ya las decisiones de diseño y desarrollo considerando una futura expansión a otras ciudades del Perú y eventualmente a países como Ecuador, Colombia o Bolivia, que comparten condiciones de mercado similares.
+
+## Bibliografía
+
+- Superintendencia Nacional de Servicios de Saneamiento (SUNASS). (2022). *Fugas de agua en instalaciones domiciliarias: impacto económico y ambiental en el usuario residencial*. SUNASS. Recuperado de https://www.sunass.gob.pe/
+- Servicio de Agua Potable y Alcantarillado de Lima (SEDAPAL). (2025). *Sitio web oficial de SEDAPAL*. Recuperado el 5 de abril de 2025, de https://www.sedapal.com.pe/
+- Instituto Nacional de Estadística e Informática (INEI). (2023). *Perú: Formas de acceso al agua y saneamiento básico*. INEI. Recuperado de https://m.inei.gob.pe/media/MenuRecursivo/boletines/boletin_agua_2023.pdf
+- Banco Mundial. (2023). *Agua: Panorama general*. Recuperado de https://www.bancomundial.org/es/topic/water/overview
+- Dropcountr. (2025). *Sitio web oficial de Dropcountr*. Recuperado el 5 de abril de 2025, de https://dropcountr.com/
+- Hydrao. (2025). *Smart shower head – water consumption monitoring*. Recuperado el 5 de abril de 2025, de https://www.hydrao.com/
+- Superintendencia Nacional de Servicios de Saneamiento (SUNASS). (2023). *Yakúmetro: simulador de consumo de agua potable y alcantarillado*. Recuperado de https://yakumetro.sunass.gob.pe/
+- Evans, E. (2003). *Domain-Driven Design: Tackling Complexity in the Heart of Software*. Addison-Wesley.
+- Microsoft. (2024). *ASP.NET Core Documentation*. Microsoft Learn. Recuperado de https://learn.microsoft.com/aspnet/core
+- Nielsen, J. (1994). *10 Usability Heuristics for User Interface Design*. Nielsen Norman Group. Recuperado de https://www.nngroup.com/articles/ten-usability-heuristics/
+- Patton, J. (2014). *User Story Mapping: Discover the Whole Story, Build the Right Product*. O'Reilly Media.
+- Schwaber, K., & Sutherland, J. (2020). *The Scrum Guide: The Definitive Guide to Scrum: The Rules of the Game*. Scrum.org. Recuperado de https://scrumguides.org/scrum-guide.html
+- You, E. (2024). *Vue.js - The Progressive JavaScript Framework*. Recuperado de https://vuejs.org/guide/introduction.html
+  
