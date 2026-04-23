@@ -178,6 +178,28 @@ En conjunto, la estructura planteada responde a un enfoque centrado en el usuari
 
 ### 4.2.2. Labeling Systems
 
+En el marco del diseño de la arquitectura de información, los **Labeling Systems** de **HydroSmart** cumplen la función de comunicar de forma clara, coherente y predecible los elementos de interacción y contenido presentes en la interfaz. Cada etiqueta textual utilizada en la navegación, llamados a la acción (CTA), planes y secciones informativas está diseñada para guiar al usuario en su recorrido, facilitando la comprensión de una solución tecnológica compleja y motivando la conversión.
+
+La siguiente tabla resume las etiquetas estratégicas implementadas, su ubicación y su función en la experiencia de usuario:
+
+| Etiqueta | Ubicación / Componente | Función |
+| :--- | :--- | :--- |
+| **Inicio / Beneficios / FAQ** | Header (Navegación) | Enlaces directos a secciones clave. Utiliza términos convencionales para reducir la carga cognitiva. |
+| **Empezar Ahora** | Header / Botón Primario | CTA de alta jerarquía. El uso del imperativo fomenta una decisión inmediata de registro o compra. |
+| **Optimizar Ahora** | Hero Section (CTA) | Refuerza la propuesta de valor del proyecto (optimización) vinculándola a una acción directa. |
+| **Ahorro Estratégico** | Sección "Por qué elegirnos" | Etiqueta de beneficio orientada al valor económico, comunicando eficiencia de forma profesional. |
+| **Poder Tecnológico** | Sección Técnica | Encabezado que posiciona la robustez de la plataforma (IA e IoT) frente al usuario técnico. |
+| **IA Predictiva** | Sección de Características | Terminología técnica específica que describe la funcionalidad avanzada de detección de fugas. |
+| **Básico / Pro / Smart** | Sección de Planes | Clasificación de niveles de servicio. "Pro" y "Smart" sugieren escalabilidad y mayor valor agregado. |
+| **Nuestro Equipo** | Sección de Staff | Identifica el capital humano detrás del proyecto, fomentando la transparencia y la confianza. |
+| **Preguntas Frecuentes** | Sección FAQ | Etiqueta estándar que indica soporte y resolución de dudas comunes de manera accesible. |
+| **Explorar** | Footer (Navegación) | Agrupa enlaces secundarios y legales, manteniendo la consistencia de navegación en el cierre del sitio. |
+| **HydroSmart** | Marca / Identidad | Nombre distintivo que combina "Agua" e "Inteligencia". Actúa como el ancla identitaria del ecosistema. |
+
+El sistema de etiquetado en la Landing Page de **HydroSmart** refleja una aplicación rigurosa de principios de usabilidad y arquitectura de información. Las etiquetas emplean un lenguaje que equilibra la precisión técnica (como "IA Predictiva" o "Detección Precisa") con términos orientados al negocio y al usuario final (como "Cero Desperdicio").
+
+Existe una coherencia semántica integral: los términos utilizados en el menú superior se replican fielmente en los encabezados de las secciones, lo que garantiza que el usuario siempre sepa dónde se encuentra. El uso de imperativos en los botones de acción y sustantivos descriptivos en las tarjetas de beneficios refuerza la accesibilidad cognitiva, permitiendo que tanto profesionales del sector hídrico como administradores de hogares puedan interactuar con la plataforma sin fricciones, asegurando la claridad y consistencia de la experiencia web.
+
 ### 4.2.3. SEO Tags and Meta Tags
 
 ### 4.2.4. Searching Systems
