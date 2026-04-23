@@ -325,6 +325,98 @@ Los componentes de la interfaz fueron organizados siguiendo flujos de usuario va
 La estructura de navegación ha sido concebida para ofrecer una experiencia eficiente e inclusiva, aplicando criterios de accesibilidad (a11y) para garantizar que la plataforma sea usable para todos, y soporte multilenguaje (i18n) para una adopción global.
 
 Se integrarán servicios RESTful para la comunicación con el backend y se crearán prototipos navegables que permitan validar funcionalmente las interacciones más críticas del sistema con usuarios reales. Esto asegurará que la solución digital de HydroSmart no solo sea atractiva visualmente, sino también robusta, intuitiva y alineada con las expectativas de sus usuarios.
+
+## 4.4.1 Web Applications Wireframes.
+
+
+HomePage - Wireframe
+
+<div align="center">
+    <img src="images/web-applications-wireframes-homepage.PNG" alt="homepage Wireframe" width="500">
+</div>
+
+User Register - Wireframe
+
+<div align="center">
+    <img src="images/web-applications-wireframes-user-register.PNG" alt="user register Wireframe" width="500">
+</div>
+
+Password Recovery - Wireframe
+
+<div align="center">
+    <img src="images/web-applications-wireframes-password-recovery.PNG" alt="password Wireframe" width="500">
+</div>
+
+Password Confirmation - Wireframe
+
+<div align="center">
+    <img src="images/web-applications-wireframes-password-confirmation.PNG" alt="password Wireframe" width="500">
+</div>
+
+
+Log In - Wireframe
+
+<div align="center">
+    <img src="images/web-applications-wireframes-log-in.PNG" alt="log in Wireframe" width="500">
+</div>
+
+## 4.4.2 Web Applications Wireflow Diagrams.
+
+Este Wireflow muestra el camino que seguiría un usuario al entrar por primera vez a la aplicación Web, llena el formulario de registro con sus datos y procede a iniciar sesión con sus credenciales recién creadas. Está representado en Wireframes.
+
+<div align="center">
+    <img src="images/web-applications-wireframes-wireflow1.PNG" alt="log in Wireframe" width="500">
+</div>
+
+## 4.4.2 Web Applications Mock-ups.
+
+
+Log In - Mock Up
+
+<div align="center">
+    <img src="images/web-applications-mockups-log-in.PNG" alt="Log In - Mock Up" width="500">
+</div>
+
+Register - Mock Up
+
+<div align="center">
+    <img src="images/web-applications-mockups-user-register.PNG" alt="Register - Mock Up" width="500">
+</div>
+
+Password Recovery - Mock Up
+
+<div align="center">
+    <img src="images/web-applications-mockups-password-recovery.PNG" alt="Password Recovery - Mock Up" width="500">
+</div>
+
+Password Recovery Code Confirmation - Mock Up
+
+<div align="center">
+    <img src="images/web-applications-mockups-password-recovery-code-confirmation.PNG" alt="Password Recovery Code Confirmation - Mock Up" width="500">
+</div>
+
+New Password Confirmation - Mock Up
+
+<div align="center">
+    <img src="images/web-applications-mockups-password-confirmation.PNG" alt="New Password Confirmation - Mock Up" width="500">
+</div>
+
+Homepage - Mock Up
+
+<div align="center">
+    <img src="images/web-applications-mockups-homepage.PNG" alt="Homepage - Mock Up" width="500">
+</div>
+
+## 4.4.3 Web Applications User Flow Diagrams.
+
+Este Wireflow muestra el camino que seguiría un usuario al entrar por primera vez a la aplicación Web, llena el formulario de registro con sus datos y procede a iniciar sesión con sus credenciales recién creadas. Está representado en Mock Ups.
+
+<div align="center">
+    <img src="images/web-applications-mockup-wireflow1.PNG" alt="Homepage - Mock Up" width="500">
+</div>
+
+
+
 ## 4.5. Web Applications Prototyping
 ## 4.6. Domain-Driven Software Architecture
 ### 4.6.1. Design-Level EventStorming
