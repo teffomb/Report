@@ -202,6 +202,34 @@ Existe una coherencia semántica integral: los términos utilizados en el menú 
 
 ### 4.2.3. SEO Tags and Meta Tags
 
+Los meta tags y etiquetas SEO son elementos esenciales dentro de la arquitectura de cualquier página web, ya que permiten definir cómo es interpretado, indexado y presentado el contenido de un sitio por parte de los motores de búsqueda y las redes sociales. Aunque estos componentes operan en el código subyacente, desempeñan un papel determinante en el posicionamiento orgánico y en la coherencia visual de los enlaces compartidos.
+
+En el desarrollo de la Landing Page de HydroSmart, se han implementado etiquetas específicas diseñadas para maximizar la relevancia del sitio. A través de descripciones precisas, el sitio comunica su identidad como una herramienta para el control hídrico. Además, se han integrado palabras clave estratégicas como IoT, eficiencia hídrica y gestión inteligente, reforzando la autoridad del dominio
+
+- **Charset:** Define la codificación de caracteres del documento para asegurar la correcta interpretación del contenido.
+
+<div>
+<img src="images/charseths.PNG" width="150" height="15">
+</div> 
+<br>
+
+- **Viewport:** Controla cómo se muestra la página en dispositivos móviles, garantizando uan experiencia accesible y responsiva.
+
+<div>
+<img src="images/viewporths.PNG" width="400" height="15">
+</div> 
+<br>
+
+- **Título:** El título actual de la página consolida la identidad digital del proyecto.
+
+<div>
+<img src="images/titulohs.PNG" width="150" height="15">
+</div> 
+<br>
+
+- **Meta Description:** Resume la propuesta de valor orientada a la optimización de recursos y detección de fugas.
+- **Keywords:** Incluye términos estratégicos que refuerzan la visibilidad en búsquedas relacionadas con tecnología hídrica.
+- **Open Graph:** Asegura una visualización atractiva y profesional al compartir el sitio en redes sociales. 
 ### 4.2.4. Searching Systems
 
 Al ingresar a HydroSmart, el usuario encontrará su información de consumo organizada de forma clara y accesible, reduciendo la necesidad de búsquedas complejas.
