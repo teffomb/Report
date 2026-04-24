@@ -31,6 +31,35 @@ Finalmente, el equipo dispone de un repositorio alterno, denominado upc-pre-1ASI
 <img src="images/repoHydroSmart.PNG" alt="Impact Mapping" width="800">
 </div>
 
+
+
+### 5.1.3. Source Code Style Guide & Conventions
+
+El uso de un estilo de código unificado es clave para asegurar la mantenibilidad y la colaboración efectiva en el desarrollo de HydroSmart. Para ello, el equipo ha adoptado convenciones de codificación que promueven la claridad y consistencia en cada módulo de la plataforma, tomando como referencia estándares reconocidos de la industria. Toda la nomenclatura se aplica en inglés.
+
+#### HTML y CSS
+
+Se siguen la Google HTML/CSS Style Guide y las convenciones de W3Schools. Se utiliza minúsculas para etiquetas y atributos, indentación de 2 espacios, comillas dobles para valores de atributos y el atributo alt en todas las imágenes. Para CSS se emplea kebab-case en nombres de clases, variables CSS para colores y tipografías del Design System, y comentarios para separar secciones del archivo.
+
+#### JavaScript y Vue
+
+En JavaScript se siguen la Google JavaScript Style Guide y MDN JavaScript Guidelines, utilizando camelCase para variables y funciones, y const/let en lugar de var. Para Vue se sigue la Vue Style Guide oficial, nombrando los componentes en PascalCase y los archivos en kebab-case. Se aplica internacionalización mediante i18n, gestionando archivos de traducción para español e inglés.
+
+#### Gherkin
+
+Para los criterios de aceptación se siguen las Gherkin Conventions for Readable Specifications, utilizando la estructura Given-When-Then con escenarios redactados en inglés y en tercera persona presente.
+
+### 5.1.4. Software Deployment Configuration
+
+Para el despliegue de los productos digitales de HydroSmart, el equipo ha configurado GitHub Pages como plataforma de publicación para la Landing Page. Este servicio permite alojar sitios web estáticos directamente desde un repositorio de GitHub.
+El proceso de despliegue sigue los siguientes pasos:
+
+1. Los cambios se desarrollan en ramas feature siguiendo el flujo GitFlow establecido.
+2. Una vez aprobados mediante Pull Request, los cambios se fusionan a la rama `develop`.
+3. Cuando el equipo determina que el conjunto de cambios está listo para publicarse, se realiza el merge de `develop` a `main`.
+4. GitHub Pages detecta automáticamente los cambios en la rama `main` y publica la nueva versión de la Landing Page.
+
+La URL de despliegue de la Landing Page es la proporcionada por GitHub Pages asociada al repositorio de la organización. Para los Web Services y la Frontend Web Application, la configuración de despliegue se definirá en sprints posteriores conforme avance la implementación.
 ### 5.2.1. Sprint 1
 Durante el Sprint 1 se planifico y se definió la implementación de la primera versión del landing page de HydroSmart. En este se establecio la propuesta de valor además de información necesaria para convencer al cliente. El trabajo planificado incluyó tanto la orgnización de la estructura y diseño visual, cómo funcionalidades esenciales como la internacionalización y sistema responsivo. 
 
