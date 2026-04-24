@@ -23,13 +23,13 @@ Ser la plataforma referente en eficiencia hídrica residencial en Latinoamérica
 </div>
 
 ### 1.1.2. Perfiles de integrantes del equipo
-|    Integrante   | Descripcion de Carrera | Conocimientos y Habilidades a apuntar|
-| --------------------------------| ----------------------| ------------------------------------ |
-|![Angelo Stephano Moscoso Bejar](./imagenes/foto%20yazid.jpg) <br> Angelo Stephano Moscoso Bejar   |  |  |
-|![Keyner Ivan Hancco Poma](./imagenes/foto%20angelo.jpg) <br> Keyner Ivan Hancco Poma   |  |  |
-|![Gabriela Luciana Tirado Carrera](./imagenes/foto%20Gonzalo.jpg) <br> Gabriela Luciana Tirado Carrera               |  |  |
-|![Yeira Shari Huaman Olivos](./imagenes/foto%20joan.jpg) <br> Yeira Shari Huaman Olivos |  |  |
-|![Diego Ismael Guevara Serrano](./imagenes/foto%20Antonio.jpg) <br> Diego Ismael Guevara Serrano      |  |  |
+|    Integrante   | Descripcion de Carrera | Conocimientos y Habilidades a apuntar |
+| --------------------------------| ----------------------|---------------------------------------|
+|![Angelo Stephano Moscoso Bejar](./imagenes/foto%20yazid.jpg) <br> Angelo Stephano Moscoso Bejar   |  |                                       |
+|![Keyner Ivan Hancco Poma](./imagenes/foto%20angelo.jpg) <br> Keyner Ivan Hancco Poma   |  |                                       |
+|![Gabriela Luciana Tirado Carrera](./imagenes/foto%20Gonzalo.jpg) <br> Gabriela Luciana Tirado Carrera               |  |                                       |
+|![Yeira Shari Huaman Olivos](./imagenes/foto%20joan.jpg) <br> Yeira Shari Huaman Olivos |  |                                       |
+|![Diego Ismael Guevara Serrano](./imagenes/foto%20Antonio.jpg) <br> Diego Ismael Guevara Serrano      | Ingenieria de software | C++, HTML, CSS, JS                    |
 
 
 ## 1.2. Solution Profile
