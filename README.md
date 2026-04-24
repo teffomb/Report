@@ -16,6 +16,20 @@
 | GitHub | Gestión de código fuente y trabajo colaborativo. | Collaboration & Version Control Tools | https://github.com/ | Plataforma para alojar repositorios, gestionar versiones y colaborar en el desarrollo de software. |
 | Git CLI (Git) | Manejo local del control de versiones. | Version Control | https://git-scm.com/ | Sistema distribuido que permite gestionar cambios en el código, trabajar con ramas y sincronizar con repositorios remotos como GitHub. |
 
+### 5.1.2. Source Code Management
+
+En el proyecto HydroSmart, la gestión del código fuente se plantea como un componente clave para asegurar el orden, la trazabilidad y el crecimiento controlado de la solución. A través del uso de herramientas como sistemas de control de versiones, se busca mantener un registro claro de los cambios realizados en el desarrollo, facilitando la organización del proyecto y la posibilidad de retroceder a versiones anteriores en caso sea necesario.
+
+En esta etapa inicial, el control del código se enfoca principalmente en el desarrollo del landing page, permitiendo gestionar de manera estructurada las modificaciones en el diseño y contenido. Este enfoque resulta fundamental para mantener consistencia en la propuesta visual y asegurar una base sólida para futuras implementaciones.
+
+A medida que el proyecto evolucione hacia el desarrollo completo de la aplicación (frontend y backend), la gestión del código permitirá trabajar de forma más eficiente, facilitar la colaboración y asegurar la calidad del producto final. De esta manera, HydroSmart establece desde el inicio buenas prácticas que acompañarán el crecimiento progresivo de la solución.
+
+Finalmente, el equipo dispone de un repositorio alterno, denominado upc-pre-1ASI0730-2610-HydroSmart (https://github.com/upc-pre-1ASI0730-2610-HydroSmart), en el cual se administran versiones en etapa de prueba y entornos experimentales con un enfoque principalmente académico. Este espacio permite trabajar de manera segura en prototipos, realizar validaciones funcionales y explorar nuevas ideas antes de incorporarlas al sistema principal. Gracias a esta separación, se pueden evaluar mejoras en un entorno controlado, reduciendo posibles impactos negativos y asegurando la estabilidad de la plataforma base.
+
+
+<div>
+<img src="images/repoHydroSmart.PNG" alt="Impact Mapping" width="600">
+</div>
 
 ### 5.2.1. Sprint 1
 Durante el Sprint 1 se planifico y se definió la implementación de la primera versión del landing page de HydroSmart. En este se establecio la propuesta de valor además de información necesaria para convencer al cliente. El trabajo planificado incluyó tanto la orgnización de la estructura y diseño visual, cómo funcionalidades esenciales como la internacionalización y sistema responsivo. 
