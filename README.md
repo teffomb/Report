@@ -379,13 +379,26 @@ El análisis de las entrevistas permitió organizar las principales actividades 
 | 9   | Supervisar el uso del agua en el hogar compartido | Frequent | High | Frequent       | High |
 | 10  | Buscar herramientas o soluciones para optimizar consumo | Occasionally | High | Occasionally   | High |
 
-### 2.3.2. User Journey Mapping
+### 2.3.3. User Journey Mapping
 
-User Journey Mapping Segmento 1:
+**User Journey Segmento 1: Propietarios de viviendas con áreas verdes:**
+
 <img src="images/User_Journey_Mapping_Segmento_1.png" alt="User_Journey_Mapping_Segmento_1.png" width="500">
 
-User Journey Mapping Segmento 2:
+**User Journey Segmento 2: Estudiantes que alquilan:**
+
 <img src="images/User_Journey_Mapping_Segmento_2.png" alt="User_Journey_Mapping_Segmento_2.png" width="500">
+
+
+### 2.3.4. Empathy Mapping.
+
+**Segmento 1: Propietarios de viviendas con áreas verdes**
+
+<img src="images/Empathy_mapping_1.png" alt="Empathy_mapping_1.png" width="500">
+
+**Segmento 2: Estudiantes que alquilan**
+
+<img src="images/Empathy_mapping_2.png" alt="Empathy_mapping_2.png" width="500">
 
 ## 2.4. Big Picture EventStorming
 
