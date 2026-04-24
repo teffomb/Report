@@ -28,7 +28,7 @@ Finalmente, el equipo dispone de un repositorio alterno, denominado upc-pre-1ASI
 
 
 <div>
-<img src="images/repoHydroSmart.PNG" alt="Impact Mapping" width="600">
+<img src="images/repoHydroSmart.PNG" alt="Impact Mapping" width="800">
 </div>
 
 ### 5.2.1. Sprint 1
