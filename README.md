@@ -62,6 +62,8 @@ El Sprint 1 se enfocó en el desarrollo e implementación del Landing Page MVP d
 
 El objetivo principal fue entregar una solución mínima viable que permita a los usuarios comprender claramente la propuesta de valor de la plataforma, junto con una interfaz adaptable a distintos dispositivos y capaz de soportar otro idioma mediante un enfoque de internacionalización.
 
+[![Sprint-Backlog-1.png](https://i.postimg.cc/6q2cbdTS/Sprint-Backlog-1.png)](https://postimg.cc/0Kv7bKYd)
+
 <table border="1" cellspacing="0" cellpadding="8" style="border-collapse: collapse; width: 100%; text-align: center; font-family: Arial, sans-serif;">
   <thead>
     <tr>
@@ -249,17 +251,19 @@ El objetivo principal fue entregar una solución mínima viable que permita a lo
 
 ### 5.2.1.4. Development Evidence for Sprint Review
 
-|Repository| Branch  | Commit id | Commit message                                           | Commited on (Date) |
-|-|---------|-----------|----------------------------------------------------------|--------------------|
-| HydroSmart-Landing-Page| develop | cd5fbec   | feat(home): add header and initial section html.         | 19/04/2026         |
-| HydroSmart-Landing-Page| develop | d1173e4   | feat(home): add header and initial section css.          | 19/04/2026         |
-| HydroSmart-Landing-Page| develop | 853ccfa   | feat(home): add i18n.feat(home): add i18n.               | 19/04/2026         |
-| HydroSmart-Landing-Page| develop | 86776fa   | feat(benefits): add benefits section html.               | 19/04/2026         |
-| HydroSmart-Landing-Page| develop | 9662781   | feat(benefits): add benefits section css.                | 19/04/2026         |
-| HydroSmart-Landing-Page| develop | 99a1ed3   | feat(suscription): add suscription plans                 | 20/04/2026         |
-| HydroSmart-Landing-Page| develop | b9722ab   | feat(suscription): clean up suscription css              | 20/04/2026         |
-| HydroSmart-Landing-Page| develop | a54e72c   | feat(subscription): add responsive styles to suscription | 20/04/2026         |
-| HydroSmart-Landing-Page| develop | fe0ad44   | feat(suscription): updated stylesSuscription             | 20/04/2026         |
+| Repository               | Branch    | Commit id | Commit message                                           | Commited on (Date) |
+|--------------------------|-----------|-----------|----------------------------------------------------------|--------------------|
+| HydroSmart-Landing-Page  | develop   | cd5fbec   | feat(home): add header and initial section html.         | 19/04/2026         |
+| HydroSmart-Landing-Page  | develop   | d1173e4   | feat(home): add header and initial section css.          | 19/04/2026         |
+| HydroSmart-Landing-Page  | develop   | 853ccfa   | feat(home): add i18n.feat(home): add i18n.               | 19/04/2026         |
+| HydroSmart-Landing-Page  | develop   | 86776fa   | feat(benefits): add benefits section html.               | 19/04/2026         |
+| HydroSmart-Landing-Page  | develop   | 9662781   | feat(benefits): add benefits section css.                | 19/04/2026         |
+| HydroSmart-Landing-Page  | develop   | 99a1ed3   | feat(suscription): add suscription plans                 | 20/04/2026         |
+| HydroSmart-Landing-Page  | develop   | b9722ab   | feat(suscription): clean up suscription css              | 20/04/2026         |
+| HydroSmart-Landing-Page  | develop   | a54e72c   | feat(subscription): add responsive styles to suscription | 20/04/2026         |
+| HydroSmart-Landing-Page  | develop   | fe0ad44   | feat(suscription): updated stylesSuscription             | 20/04/2026         |
+| HydroSmart-Landing-Page  | develop   | 71c0a11   | feat(nosotros):  add team section with i18n support      | 21/04/2026         |
+| HydroSmart-Landing-Page  | develop   | 3ef7cb9   |  feat(nosotros): add photos and description              | 22/04/2026         |
 
 ---
 
