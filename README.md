@@ -1,4 +1,22 @@
 # Capitulo V: Product Implementation, Validation and Deployment 
+
+## 5.1. Software Configuration Management
+
+### 5.1.1. Software Development Environment Configuration
+
+| Producto | Propósito en el proyecto | Categoría | Ruta de descarga / acceso | Descripción |
+|----------|------------------------|-----------|---------------------------|-------------|
+| JetBrains WebStorm | Desarrollo web moderno utilizando tecnologías como Vue y TypeScript. | Software Development | https://www.jetbrains.com/webstorm/ | IDE especializado en desarrollo frontend y backend con soporte para JavaScript, TypeScript y frameworks modernos como Vue.js. |
+| JetBrains Rider | Desarrollo del backend en .NET y lógica del sistema. | Software Development | https://www.jetbrains.com/rider/ | IDE multiplataforma enfocado en desarrollo con .NET, con herramientas avanzadas para depuración, pruebas y productividad. |
+| UXPressia | Representación gráfica de la experiencia del usuario. | Product UX/UI Design | https://uxpressia.com/ | Plataforma para crear journey maps y perfiles de usuario, permitiendo analizar visualmente la experiencia dentro del sistema. |
+| Structurizr | Diseño y documentación de arquitecturas basadas en el modelo C4. | Product UX/UI Design | https://structurizr.com/ | Herramienta para modelar arquitecturas de software mediante el enfoque C4, facilitando la comprensión de sistemas complejos. |
+| Lucidchart | Planificación estructurada del software mediante diagramas. | Product UX/UI Design | https://www.lucidchart.com/ | Aplicación para crear diagramas de flujo, arquitectura y procesos, mejorando la organización visual del proyecto. |
+| Figma | Diseño de interfaces y prototipos de usuario. | Product UX/UI Design | https://www.figma.com/ | Herramienta colaborativa en la nube para diseñar interfaces UI/UX, prototipos interactivos y sistemas de diseño. |
+| Visual Paradigm | Modelado UML y diseño de sistemas. | Product UX/UI Design | https://www.visual-paradigm.com/ | Plataforma para crear diagramas UML, BPMN y otros modelos, útil para análisis y diseño de software. |
+| GitHub | Gestión de código fuente y trabajo colaborativo. | Collaboration & Version Control Tools | https://github.com/ | Plataforma para alojar repositorios, gestionar versiones y colaborar en el desarrollo de software. |
+| Git CLI (Git) | Manejo local del control de versiones. | Version Control | https://git-scm.com/ | Sistema distribuido que permite gestionar cambios en el código, trabajar con ramas y sincronizar con repositorios remotos como GitHub. |
+
+
 ### 5.2.1. Sprint 1
 Durante el Sprint 1 se planifico y se definió la implementación de la primera versión del landing page de HydroSmart. En este se establecio la propuesta de valor además de información necesaria para convencer al cliente. El trabajo planificado incluyó tanto la orgnización de la estructura y diseño visual, cómo funcionalidades esenciales como la internacionalización y sistema responsivo. 
 
